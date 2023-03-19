@@ -1,0 +1,2151 @@
+2023-03-06 19:42:11,245 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 19:42:12,838 - logger_File -INFO - user entered email tester9@gmail.com and password Tekschool123!
+2023-03-06 19:42:13,318 - logger_File -INFO - user clicked on login button
+2023-03-06 19:48:41,955 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 19:48:43,534 - logger_File -INFO - user entered email tester9@gmail.com and password Tekschool123!
+2023-03-06 19:48:43,822 - logger_File -INFO - user clicked on login button
+2023-03-06 19:53:58,739 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 19:53:59,987 - logger_File -INFO - user entered email tester9@gmail.com and password Tekschool123!
+2023-03-06 19:54:00,227 - logger_File -INFO - user clicked on login button
+2023-03-06 19:54:00,229 - logger_File -INFO - user is login into account page
+2023-03-06 19:59:43,837 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 19:59:44,964 - logger_File -INFO - user entered email tester9@gmail.com and password Tekschool123!
+2023-03-06 19:59:45,306 - logger_File -INFO - user clicked on login button
+2023-03-06 19:59:45,872 - logger_File -INFO - user is login into account page
+2023-03-06 22:06:41,590 - logger_File -INFO - User clicked on Sign in Option
+2023-03-06 22:06:41,925 - logger_File -INFO - user clicked on Create New Account button
+2023-03-06 22:06:43,540 - logger_File -INFO - user filled the signUp information form
+2023-03-06 22:06:43,685 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-06 22:06:44,185 - logger_File -INFO - user is login into account page
+2023-03-07 21:01:10,988 - logger_File -INFO - User clicked on Sign in Option
+2023-03-07 21:01:12,852 - logger_File -INFO - user entered email tester9@gmail.com and password Tekschool123!
+2023-03-07 21:01:13,206 - logger_File -INFO - user clicked on login button
+2023-03-07 21:01:14,270 - logger_File -INFO - user is login into account page
+2023-03-07 21:01:14,961 - logger_File -INFO - user clicked on Account option
+2023-03-07 21:01:16,582 - logger_File -INFO - user updated Name and Phone values 
+2023-03-07 21:01:17,078 - logger_File -INFO - user clicked on Update button
+2023-03-07 21:01:19,283 - logger_File -INFO - user profile information updated
+2023-03-08 20:55:46,664 - logger_File -INFO - User clicked on Sign in Option
+2023-03-08 20:55:47,455 - logger_File -INFO - user entered email tester9@gmail.com and password Tekschool123!
+2023-03-08 20:55:47,637 - logger_File -INFO - user clicked on login button
+2023-03-08 20:55:47,915 - logger_File -INFO - user is login into account page
+2023-03-08 20:55:48,288 - logger_File -INFO - user clicked on Account option
+2023-03-08 20:55:48,932 - logger_File -INFO - user entered information
+2023-03-08 20:56:32,083 - logger_File -INFO - User clicked on Sign in Option
+2023-03-08 20:56:32,402 - logger_File -INFO - user entered email tester9@gmail.com and password Tekschool123!
+2023-03-08 20:56:32,500 - logger_File -INFO - user clicked on login button
+2023-03-08 20:56:32,762 - logger_File -INFO - user is login into account page
+2023-03-08 20:56:32,943 - logger_File -INFO - user clicked on Account option
+2023-03-08 20:56:33,421 - logger_File -INFO - user entered information
+2023-03-08 20:56:33,506 - logger_File -INFO - user clicked on change password button
+2023-03-08 20:56:34,436 - logger_File -INFO - password updated successfully
+2023-03-09 11:57:10,740 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 11:57:11,167 - logger_File -INFO - user entered email tester9@gmail.com and password Tekschool123!
+2023-03-09 11:57:11,318 - logger_File -INFO - user clicked on login button
+2023-03-09 11:58:31,532 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 11:58:31,829 - logger_File -INFO - user entered email tester9@gmail.com and password Tekschool123!
+2023-03-09 11:58:31,912 - logger_File -INFO - user clicked on login button
+2023-03-09 12:00:29,094 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 12:00:29,468 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 12:00:29,556 - logger_File -INFO - user clicked on login button
+2023-03-09 12:00:29,899 - logger_File -INFO - user is login into account page
+2023-03-09 12:00:30,122 - logger_File -INFO - user clicked on Account option
+2023-03-09 12:00:30,222 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 12:01:57,608 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 12:01:57,938 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 12:01:58,045 - logger_File -INFO - user clicked on login button
+2023-03-09 12:01:58,303 - logger_File -INFO - user is login into account page
+2023-03-09 12:01:58,498 - logger_File -INFO - user clicked on Account option
+2023-03-09 12:01:58,602 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 12:10:38,543 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 12:10:38,966 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 12:10:39,067 - logger_File -INFO - user clicked on login button
+2023-03-09 12:10:39,345 - logger_File -INFO - user is login into account page
+2023-03-09 12:10:39,533 - logger_File -INFO - user clicked on Account option
+2023-03-09 12:10:39,690 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 12:17:13,006 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 12:17:13,352 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 12:17:13,432 - logger_File -INFO - user clicked on login button
+2023-03-09 12:17:13,695 - logger_File -INFO - user is login into account page
+2023-03-09 12:17:13,887 - logger_File -INFO - user clicked on Account option
+2023-03-09 12:17:14,003 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 12:17:14,545 - logger_File -INFO - user filled debit or credit card information
+2023-03-09 12:17:14,657 - logger_File -INFO - user clicked on add your card
+2023-03-09 12:23:18,355 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 12:23:18,783 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 12:23:18,867 - logger_File -INFO - user clicked on login button
+2023-03-09 12:23:19,180 - logger_File -INFO - user is login into account page
+2023-03-09 12:23:19,370 - logger_File -INFO - user clicked on Account option
+2023-03-09 12:23:19,481 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 12:23:20,225 - logger_File -INFO - user filled debit or credit card information
+2023-03-09 12:23:20,395 - logger_File -INFO - user clicked on add your card
+2023-03-09 12:26:29,181 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 12:26:29,553 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 12:26:29,635 - logger_File -INFO - user clicked on login button
+2023-03-09 12:26:29,898 - logger_File -INFO - user is login into account page
+2023-03-09 12:26:30,088 - logger_File -INFO - user clicked on Account option
+2023-03-09 12:26:30,202 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 12:26:30,858 - logger_File -INFO - user filled debit or credit card information
+2023-03-09 12:26:30,932 - logger_File -INFO - user clicked on add your card
+2023-03-09 12:27:34,962 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 12:27:35,385 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 12:27:35,524 - logger_File -INFO - user clicked on login button
+2023-03-09 12:27:35,799 - logger_File -INFO - user is login into account page
+2023-03-09 12:27:35,975 - logger_File -INFO - user clicked on Account option
+2023-03-09 12:27:36,085 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 12:27:36,601 - logger_File -INFO - user filled debit or credit card information
+2023-03-09 12:27:36,681 - logger_File -INFO - user clicked on add your card
+2023-03-09 12:30:29,380 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 12:30:29,690 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 12:30:29,788 - logger_File -INFO - user clicked on login button
+2023-03-09 12:30:30,063 - logger_File -INFO - user is login into account page
+2023-03-09 12:30:30,233 - logger_File -INFO - user clicked on Account option
+2023-03-09 12:30:30,364 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 12:30:30,814 - logger_File -INFO - user filled debit or credit card information
+2023-03-09 12:30:30,888 - logger_File -INFO - user clicked on add your card
+2023-03-09 12:34:02,273 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 12:34:02,598 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 12:34:02,681 - logger_File -INFO - user clicked on login button
+2023-03-09 12:34:03,099 - logger_File -INFO - user is login into account page
+2023-03-09 12:34:03,265 - logger_File -INFO - user clicked on Account option
+2023-03-09 12:34:03,366 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 12:34:03,828 - logger_File -INFO - user filled debit or credit card information
+2023-03-09 12:34:03,909 - logger_File -INFO - user clicked on add your card
+2023-03-09 12:34:58,439 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 12:34:58,748 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 12:34:58,823 - logger_File -INFO - user clicked on login button
+2023-03-09 12:34:59,082 - logger_File -INFO - user is login into account page
+2023-03-09 12:34:59,270 - logger_File -INFO - user clicked on Account option
+2023-03-09 12:34:59,364 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 12:34:59,833 - logger_File -INFO - user filled debit or credit card information
+2023-03-09 12:34:59,914 - logger_File -INFO - user clicked on add your card
+2023-03-09 13:52:13,293 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 13:52:13,656 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 13:52:13,738 - logger_File -INFO - user clicked on login button
+2023-03-09 13:52:14,034 - logger_File -INFO - user is login into account page
+2023-03-09 13:52:14,240 - logger_File -INFO - user clicked on Account option
+2023-03-09 13:52:14,349 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 13:52:14,852 - logger_File -INFO - user filled debit or credit card information
+2023-03-09 13:52:14,944 - logger_File -INFO - user clicked on add your card
+2023-03-09 13:57:07,271 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 13:57:07,588 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 13:57:07,676 - logger_File -INFO - user clicked on login button
+2023-03-09 13:57:07,933 - logger_File -INFO - user is login into account page
+2023-03-09 13:57:08,120 - logger_File -INFO - user clicked on Account option
+2023-03-09 13:57:08,266 - logger_File -INFO - user clicked add a payment method link
+2023-03-09 13:57:08,769 - logger_File -INFO - user filled debit or credit card information
+2023-03-09 13:57:08,853 - logger_File -INFO - user clicked on add your card
+2023-03-09 13:57:08,854 - logger_File -INFO - password updated successfully
+2023-03-09 14:23:09,862 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 14:23:10,227 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 14:23:10,308 - logger_File -INFO - user clicked on login button
+2023-03-09 14:23:10,572 - logger_File -INFO - user is login into account page
+2023-03-09 14:23:10,768 - logger_File -INFO - user clicked on Account option
+2023-03-09 16:04:45,398 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 16:04:45,793 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 16:04:45,877 - logger_File -INFO - user clicked on login button
+2023-03-09 16:04:46,202 - logger_File -INFO - user is login into account page
+2023-03-09 16:04:46,430 - logger_File -INFO - user clicked on Account option
+2023-03-09 16:04:46,604 - logger_File -INFO - user clicked on remove option of card section
+2023-03-09 16:04:46,605 - logger_File -INFO - payment details should be removed
+2023-03-09 22:58:42,855 - logger_File -INFO - User clicked on Sign in Option
+2023-03-09 22:58:43,230 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-09 22:58:43,327 - logger_File -INFO - user clicked on login button
+2023-03-09 22:58:43,586 - logger_File -INFO - user is login into account page
+2023-03-09 22:58:43,771 - logger_File -INFO - user clicked on Account option
+2023-03-09 22:58:43,901 - logger_File -INFO - user clicked on Add address option
+2023-03-09 22:58:45,140 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-09 22:58:45,283 - logger_File -INFO - user clicked on Add your Address button
+2023-03-09 22:58:45,284 - logger_File -INFO - password updated successfully
+2023-03-14 12:53:25,809 - logger_File -INFO - User clicked on Sign in Option
+2023-03-14 12:53:26,166 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-14 12:53:26,250 - logger_File -INFO - user clicked on login button
+2023-03-14 12:53:26,556 - logger_File -INFO - user is login into account page
+2023-03-14 12:53:26,784 - logger_File -INFO - user clicked on Account option
+2023-03-14 12:53:26,954 - logger_File -INFO - user clicked on edit address option
+2023-03-14 12:53:28,554 - logger_File -INFO - user filled new address form with below information
+2023-03-14 12:53:28,647 - logger_File -INFO - user clicked on Add your Address button
+2023-03-14 12:53:28,648 - logger_File -INFO - password updated successfully
+2023-03-14 13:48:40,949 - logger_File -INFO - User clicked on Sign in Option
+2023-03-14 13:48:41,333 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-14 13:48:41,419 - logger_File -INFO - user clicked on login button
+2023-03-14 13:48:41,690 - logger_File -INFO - user is login into account page
+2023-03-14 13:48:41,912 - logger_File -INFO - user clicked on Account option
+2023-03-14 13:48:42,067 - logger_File -INFO - user clicked on remove address section
+2023-03-14 13:48:42,069 - logger_File -INFO - Address details are removed
+2023-03-14 22:28:32,607 - logger_File -INFO - user clicked on All section
+2023-03-14 22:29:48,378 - logger_File -INFO - user clicked on All section
+2023-03-14 22:29:48,587 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-14 22:29:48,620 - logger_File -INFO - Computers is equal to Computers
+2023-03-14 22:29:48,652 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-14 22:29:48,684 - logger_File -INFO - Sports is equal to Sports
+2023-03-14 22:29:48,712 - logger_File -INFO - Automative is equal to Automative
+2023-03-14 22:29:48,800 - logger_File -INFO - actual is equal to expected
+2023-03-14 22:51:12,943 - logger_File -INFO - User clicked on Sign in Option
+2023-03-14 22:51:13,405 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-14 22:51:13,491 - logger_File -INFO - user clicked on login button
+2023-03-14 22:51:13,850 - logger_File -INFO - user is login into account page
+2023-03-14 22:51:14,074 - logger_File -INFO - user changed category to Smart Home
+2023-03-14 22:51:14,425 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-14 22:51:14,531 - logger_File -INFO - user clicked on search icon
+2023-03-14 22:51:14,754 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-14 22:51:19,966 - logger_File -INFO - user selected quantity 2
+2023-03-14 22:51:20,050 - logger_File -INFO - user clicked add to cart button
+2023-03-14 22:51:20,197 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-14 23:37:37,720 - logger_File -INFO - User clicked on Sign in Option
+2023-03-14 23:37:38,116 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-14 23:37:38,199 - logger_File -INFO - user clicked on login button
+2023-03-14 23:37:38,641 - logger_File -INFO - user is login into account page
+2023-03-14 23:37:38,842 - logger_File -INFO - user changed category to Smart Home
+2023-03-14 23:37:39,209 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-14 23:37:39,295 - logger_File -INFO - user clicked on search icon
+2023-03-14 23:37:39,577 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-14 23:37:44,793 - logger_File -INFO - user selected quantity 2
+2023-03-14 23:37:44,876 - logger_File -INFO - user clicked add to cart button
+2023-03-14 23:37:44,906 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-14 23:37:45,032 - logger_File -INFO - user clicked on cart option
+2023-03-14 23:37:45,164 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-14 23:37:45,281 - logger_File -INFO - user clicked on add new address
+2023-03-14 23:37:46,393 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-14 23:37:46,508 - logger_File -INFO - user clicked on Add your Address button
+2023-03-14 23:37:46,602 - logger_File -INFO - user click add a credit or debit card
+2023-03-14 23:37:47,052 - logger_File -INFO - user filled debit or credit card information
+2023-03-14 23:37:47,131 - logger_File -INFO - user click on add your card button
+2023-03-14 23:39:32,140 - logger_File -INFO - User clicked on Sign in Option
+2023-03-14 23:39:32,540 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-14 23:39:32,622 - logger_File -INFO - user clicked on login button
+2023-03-14 23:39:32,961 - logger_File -INFO - user is login into account page
+2023-03-14 23:39:33,190 - logger_File -INFO - user changed category to Smart Home
+2023-03-14 23:39:33,544 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-14 23:39:33,620 - logger_File -INFO - user clicked on search icon
+2023-03-14 23:39:33,830 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-14 23:39:39,042 - logger_File -INFO - user selected quantity 2
+2023-03-14 23:39:39,118 - logger_File -INFO - user clicked add to cart button
+2023-03-14 23:39:39,157 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-14 23:39:39,275 - logger_File -INFO - user clicked on cart option
+2023-03-14 23:39:39,399 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-14 23:39:39,511 - logger_File -INFO - user clicked on add new address
+2023-03-14 23:39:40,750 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-14 23:39:40,846 - logger_File -INFO - user clicked on Add your Address button
+2023-03-14 23:39:40,948 - logger_File -INFO - user click add a credit or debit card
+2023-03-14 23:39:41,504 - logger_File -INFO - user filled debit or credit card information
+2023-03-14 23:39:41,583 - logger_File -INFO - user click on add your card button
+2023-03-14 23:39:42,187 - logger_File -INFO - user click on place your order button
+2023-03-14 23:39:42,188 - logger_File -INFO - password updated successfully
+2023-03-14 23:46:36,007 - logger_File -INFO - User clicked on Sign in Option
+2023-03-14 23:46:36,682 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-14 23:46:36,788 - logger_File -INFO - user clicked on login button
+2023-03-14 23:46:37,259 - logger_File -INFO - user is login into account page
+2023-03-14 23:46:37,463 - logger_File -INFO - user changed category to Smart Home
+2023-03-14 23:46:37,832 - logger_File -INFO - user searched for product Apex Legends
+2023-03-14 23:46:37,975 - logger_File -INFO - user clicked on search icon
+2023-03-14 23:46:38,174 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-14 23:46:43,390 - logger_File -INFO - user selected quantity 2
+2023-03-14 23:46:43,470 - logger_File -INFO - user clicked add to cart button
+2023-03-14 23:46:43,503 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-14 23:46:43,617 - logger_File -INFO - user clicked on cart option
+2023-03-14 23:46:43,783 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-14 23:46:43,889 - logger_File -INFO - user click on place your order button
+2023-03-14 23:46:43,909 - logger_File -INFO - password updated successfully
+2023-03-14 23:51:27,991 - logger_File -INFO - User clicked on Sign in Option
+2023-03-14 23:51:28,421 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-14 23:51:28,503 - logger_File -INFO - user clicked on login button
+2023-03-14 23:51:28,804 - logger_File -INFO - user is login into account page
+2023-03-14 23:51:29,030 - logger_File -INFO - user clicked on Account option
+2023-03-14 23:51:29,158 - logger_File -INFO - user clicked add a payment method link
+2023-03-14 23:51:29,628 - logger_File -INFO - user filled debit or credit card information
+2023-03-14 23:51:29,709 - logger_File -INFO - user clicked on add your card
+2023-03-14 23:51:29,710 - logger_File -INFO - password updated successfully
+2023-03-15 00:34:41,368 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 00:34:41,811 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 00:34:41,894 - logger_File -INFO - user clicked on login button
+2023-03-15 00:34:42,236 - logger_File -INFO - user is login into account page
+2023-03-15 13:37:17,551 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 13:37:17,935 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 13:37:18,020 - logger_File -INFO - user clicked on login button
+2023-03-15 13:37:18,341 - logger_File -INFO - user is login into account page
+2023-03-15 13:37:18,586 - logger_File -INFO - user clicked on order section
+2023-03-15 13:37:18,587 - logger_File -INFO - user cliked on first order in list
+2023-03-15 13:42:43,299 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 13:42:43,622 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 13:42:43,712 - logger_File -INFO - user clicked on login button
+2023-03-15 13:42:43,983 - logger_File -INFO - user is login into account page
+2023-03-15 13:42:44,172 - logger_File -INFO - user clicked on order section
+2023-03-15 13:45:20,953 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 13:45:21,327 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 13:45:21,405 - logger_File -INFO - user clicked on login button
+2023-03-15 13:45:21,741 - logger_File -INFO - user is login into account page
+2023-03-15 13:45:21,962 - logger_File -INFO - user clicked on order section
+2023-03-15 13:45:21,963 - logger_File -INFO - user cliked on first order in list
+2023-03-15 13:45:22,103 - logger_File -INFO - user clicked on cancel order button
+2023-03-15 13:45:22,206 - logger_File -INFO - user selected cancelation reason
+2023-03-15 13:47:46,109 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 13:47:46,426 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 13:47:46,508 - logger_File -INFO - user clicked on login button
+2023-03-15 13:47:46,810 - logger_File -INFO - user is login into account page
+2023-03-15 13:47:47,009 - logger_File -INFO - user clicked on order section
+2023-03-15 13:47:47,014 - logger_File -INFO - user cliked on first order in list
+2023-03-15 13:47:47,177 - logger_File -INFO - user clicked on cancel order button
+2023-03-15 13:47:47,266 - logger_File -INFO - user selected cancelation reason
+2023-03-15 13:47:47,341 - logger_File -INFO - user clicked order button
+2023-03-15 13:47:47,342 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 14:09:39,606 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 14:09:40,024 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 14:09:40,111 - logger_File -INFO - user clicked on login button
+2023-03-15 14:09:40,443 - logger_File -INFO - user is login into account page
+2023-03-15 14:09:40,675 - logger_File -INFO - user clicked on order section
+2023-03-15 14:09:40,676 - logger_File -INFO - user cliked on first order in list
+2023-03-15 14:09:40,825 - logger_File -INFO - user clicked return items button
+2023-03-15 14:09:40,918 - logger_File -INFO - user selected return reason
+2023-03-15 14:09:40,995 - logger_File -INFO - user selected drop off service
+2023-03-15 14:09:41,066 - logger_File -INFO - user clicked on return order button
+2023-03-15 14:09:41,068 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 15:43:40,065 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:43:40,508 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:43:40,599 - logger_File -INFO - user clicked on login button
+2023-03-15 15:43:40,952 - logger_File -INFO - user is login into account page
+2023-03-15 15:43:41,203 - logger_File -INFO - user clicked on order section
+2023-03-15 15:43:41,205 - logger_File -INFO - user cliked on first order in list
+2023-03-15 15:43:41,338 - logger_File -INFO - user clicked on review button
+2023-03-15 15:43:41,620 - logger_File -INFO - user wrote a review
+2023-03-15 15:43:41,704 - logger_File -INFO - user clicked add your review
+2023-03-15 15:43:41,706 - logger_File -INFO - Your review was added successfully
+2023-03-15 15:49:24,858 - logger_File -INFO - user clicked on All section
+2023-03-15 15:49:25,177 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-15 15:49:25,225 - logger_File -INFO - Computers is equal to Computers
+2023-03-15 15:49:25,259 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-15 15:49:25,292 - logger_File -INFO - Sports is equal to Sports
+2023-03-15 15:49:25,328 - logger_File -INFO - Automative is equal to Automative
+2023-03-15 15:49:25,399 - logger_File -INFO - actual is equal to expected
+2023-03-15 15:49:28,571 - logger_File -INFO - user clicked on All section
+2023-03-15 15:49:31,398 - logger_File -INFO - user clicked on All section
+2023-03-15 15:49:34,241 - logger_File -INFO - user clicked on All section
+2023-03-15 15:49:37,038 - logger_File -INFO - user clicked on All section
+2023-03-15 15:49:39,799 - logger_File -INFO - user clicked on All section
+2023-03-15 15:49:42,697 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:49:43,107 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:49:43,191 - logger_File -INFO - user clicked on login button
+2023-03-15 15:49:43,572 - logger_File -INFO - user is login into account page
+2023-03-15 15:49:43,834 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 15:49:44,193 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 15:49:44,275 - logger_File -INFO - user clicked on search icon
+2023-03-15 15:49:44,489 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 15:49:49,705 - logger_File -INFO - user selected quantity 2
+2023-03-15 15:49:49,781 - logger_File -INFO - user clicked add to cart button
+2023-03-15 15:49:49,929 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 15:49:52,871 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:49:53,198 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:49:53,274 - logger_File -INFO - user clicked on login button
+2023-03-15 15:49:53,568 - logger_File -INFO - user is login into account page
+2023-03-15 15:49:53,710 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 15:49:54,054 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 15:49:54,130 - logger_File -INFO - user clicked on search icon
+2023-03-15 15:49:54,356 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 15:49:59,538 - logger_File -INFO - user selected quantity 2
+2023-03-15 15:49:59,612 - logger_File -INFO - user clicked add to cart button
+2023-03-15 15:49:59,638 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 15:49:59,758 - logger_File -INFO - user clicked on cart option
+2023-03-15 15:49:59,895 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 15:50:00,058 - logger_File -INFO - user clicked on add new address
+2023-03-15 15:50:01,131 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-15 15:50:01,239 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 15:50:05,757 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:50:06,051 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:50:06,129 - logger_File -INFO - user clicked on login button
+2023-03-15 15:50:06,698 - logger_File -INFO - user is login into account page
+2023-03-15 15:50:06,893 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 15:50:07,238 - logger_File -INFO - user searched for product Apex Legends
+2023-03-15 15:50:07,312 - logger_File -INFO - user clicked on search icon
+2023-03-15 15:50:07,524 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 15:50:12,719 - logger_File -INFO - user selected quantity 2
+2023-03-15 15:50:12,807 - logger_File -INFO - user clicked add to cart button
+2023-03-15 15:50:12,834 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 15:50:12,947 - logger_File -INFO - user clicked on cart option
+2023-03-15 15:50:13,068 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 15:50:13,146 - logger_File -INFO - user click on place your order button
+2023-03-15 15:50:13,157 - logger_File -INFO - password updated successfully
+2023-03-15 15:50:16,191 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:50:16,532 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:50:16,597 - logger_File -INFO - user clicked on login button
+2023-03-15 15:50:16,889 - logger_File -INFO - user is login into account page
+2023-03-15 15:50:17,090 - logger_File -INFO - user clicked on Account option
+2023-03-15 15:50:17,449 - logger_File -INFO - user updated Name and Phone values 
+2023-03-15 15:50:17,526 - logger_File -INFO - user clicked on Update button
+2023-03-15 15:51:01,021 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:01,327 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:51:01,399 - logger_File -INFO - user clicked on login button
+2023-03-15 15:51:01,883 - logger_File -INFO - user is login into account page
+2023-03-15 15:51:02,136 - logger_File -INFO - user clicked on Account option
+2023-03-15 15:51:02,513 - logger_File -INFO - user entered information
+2023-03-15 15:51:02,586 - logger_File -INFO - user clicked on change password button
+2023-03-15 15:51:02,586 - logger_File -INFO - password updated successfully
+2023-03-15 15:51:05,484 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:05,795 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:51:05,869 - logger_File -INFO - user clicked on login button
+2023-03-15 15:51:06,200 - logger_File -INFO - user is login into account page
+2023-03-15 15:51:06,383 - logger_File -INFO - user clicked on Account option
+2023-03-15 15:51:06,508 - logger_File -INFO - user clicked add a payment method link
+2023-03-15 15:51:06,965 - logger_File -INFO - user filled debit or credit card information
+2023-03-15 15:51:07,032 - logger_File -INFO - user clicked on add your card
+2023-03-15 15:51:07,033 - logger_File -INFO - password updated successfully
+2023-03-15 15:51:09,848 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:10,258 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:51:10,344 - logger_File -INFO - user clicked on login button
+2023-03-15 15:51:10,649 - logger_File -INFO - user is login into account page
+2023-03-15 15:51:10,839 - logger_File -INFO - user clicked on Account option
+2023-03-15 15:51:11,094 - logger_File -INFO - user clicked on remove option of card section
+2023-03-15 15:51:11,094 - logger_File -INFO - payment details should be removed
+2023-03-15 15:51:13,987 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:14,306 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:51:14,386 - logger_File -INFO - user clicked on login button
+2023-03-15 15:51:14,677 - logger_File -INFO - user is login into account page
+2023-03-15 15:51:14,886 - logger_File -INFO - user clicked on Account option
+2023-03-15 15:51:15,112 - logger_File -INFO - user clicked on Add address option
+2023-03-15 15:51:15,950 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-15 15:51:16,028 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 15:51:16,029 - logger_File -INFO - password updated successfully
+2023-03-15 15:51:18,920 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:19,278 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:51:19,341 - logger_File -INFO - user clicked on login button
+2023-03-15 15:51:19,653 - logger_File -INFO - user is login into account page
+2023-03-15 15:51:19,838 - logger_File -INFO - user clicked on Account option
+2023-03-15 15:51:19,995 - logger_File -INFO - user clicked on edit address option
+2023-03-15 15:51:20,973 - logger_File -INFO - user filled new address form with below information
+2023-03-15 15:51:21,033 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 15:51:21,035 - logger_File -INFO - password updated successfully
+2023-03-15 15:51:24,586 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:24,936 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:51:25,017 - logger_File -INFO - user clicked on login button
+2023-03-15 15:51:25,345 - logger_File -INFO - user is login into account page
+2023-03-15 15:51:25,564 - logger_File -INFO - user clicked on Account option
+2023-03-15 15:51:25,689 - logger_File -INFO - user clicked on remove address section
+2023-03-15 15:51:25,689 - logger_File -INFO - Address details are removed
+2023-03-15 15:51:28,646 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:28,979 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:51:29,043 - logger_File -INFO - user clicked on login button
+2023-03-15 15:51:29,367 - logger_File -INFO - user is login into account page
+2023-03-15 15:51:29,560 - logger_File -INFO - user clicked on order section
+2023-03-15 15:51:29,561 - logger_File -INFO - user cliked on first order in list
+2023-03-15 15:51:29,686 - logger_File -INFO - user clicked on cancel order button
+2023-03-15 15:51:29,782 - logger_File -INFO - user selected cancelation reason
+2023-03-15 15:51:29,850 - logger_File -INFO - user clicked order button
+2023-03-15 15:51:29,851 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 15:51:32,635 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:32,926 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:51:33,001 - logger_File -INFO - user clicked on login button
+2023-03-15 15:51:33,325 - logger_File -INFO - user is login into account page
+2023-03-15 15:51:33,561 - logger_File -INFO - user clicked on order section
+2023-03-15 15:51:33,562 - logger_File -INFO - user cliked on first order in list
+2023-03-15 15:51:33,685 - logger_File -INFO - user clicked return items button
+2023-03-15 15:51:33,773 - logger_File -INFO - user selected return reason
+2023-03-15 15:51:33,854 - logger_File -INFO - user selected drop off service
+2023-03-15 15:51:33,933 - logger_File -INFO - user clicked on return order button
+2023-03-15 15:51:33,934 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 15:51:36,701 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:37,039 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:51:37,106 - logger_File -INFO - user clicked on login button
+2023-03-15 15:51:37,418 - logger_File -INFO - user is login into account page
+2023-03-15 15:51:37,610 - logger_File -INFO - user clicked on order section
+2023-03-15 15:51:37,611 - logger_File -INFO - user cliked on first order in list
+2023-03-15 15:51:37,750 - logger_File -INFO - user clicked on review button
+2023-03-15 15:51:38,056 - logger_File -INFO - user wrote a review
+2023-03-15 15:51:38,125 - logger_File -INFO - user clicked add your review
+2023-03-15 15:51:38,127 - logger_File -INFO - Your review was added successfully
+2023-03-15 15:51:40,909 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:41,253 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:51:41,331 - logger_File -INFO - user clicked on login button
+2023-03-15 15:51:41,628 - logger_File -INFO - user is login into account page
+2023-03-15 15:51:44,459 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:51:44,782 - logger_File -INFO - user entered email transformers@tekschool.us and password Tek@12345
+2023-03-15 15:51:44,848 - logger_File -INFO - user clicked on login button
+2023-03-15 15:52:08,377 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:52:08,678 - logger_File -INFO - user entered email phantom.test@gmail.com and password Tek@12345
+2023-03-15 15:52:08,750 - logger_File -INFO - user clicked on login button
+2023-03-15 15:52:32,186 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:52:32,268 - logger_File -INFO - user clicked on Create New Account button
+2023-03-15 15:52:32,797 - logger_File -INFO - user filled the signUp information form
+2023-03-15 15:52:32,869 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-15 15:52:33,437 - logger_File -INFO - user is login into account page
+2023-03-15 15:55:58,312 - logger_File -INFO - user clicked on All section
+2023-03-15 15:55:58,599 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-15 15:55:58,651 - logger_File -INFO - Computers is equal to Computers
+2023-03-15 15:55:58,687 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-15 15:55:58,716 - logger_File -INFO - Sports is equal to Sports
+2023-03-15 15:55:58,744 - logger_File -INFO - Automative is equal to Automative
+2023-03-15 15:55:58,745 - logger_File -INFO - actual is equal to expected
+2023-03-15 15:56:01,717 - logger_File -INFO - user clicked on All section
+2023-03-15 15:56:04,596 - logger_File -INFO - user clicked on All section
+2023-03-15 15:56:07,577 - logger_File -INFO - user clicked on All section
+2023-03-15 15:56:10,635 - logger_File -INFO - user clicked on All section
+2023-03-15 15:56:13,580 - logger_File -INFO - user clicked on All section
+2023-03-15 15:56:16,346 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:56:16,710 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:56:16,792 - logger_File -INFO - user clicked on login button
+2023-03-15 15:56:17,085 - logger_File -INFO - user is login into account page
+2023-03-15 15:56:17,319 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 15:56:17,679 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 15:56:17,755 - logger_File -INFO - user clicked on search icon
+2023-03-15 15:56:17,949 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 15:56:23,145 - logger_File -INFO - user selected quantity 2
+2023-03-15 15:56:23,219 - logger_File -INFO - user clicked add to cart button
+2023-03-15 15:56:23,256 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 15:56:26,434 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:56:26,806 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:56:26,883 - logger_File -INFO - user clicked on login button
+2023-03-15 15:56:27,179 - logger_File -INFO - user is login into account page
+2023-03-15 15:56:27,347 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 15:56:27,704 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 15:56:27,780 - logger_File -INFO - user clicked on search icon
+2023-03-15 15:56:27,999 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 15:56:33,196 - logger_File -INFO - user selected quantity 2
+2023-03-15 15:56:33,269 - logger_File -INFO - user clicked add to cart button
+2023-03-15 15:56:33,297 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 15:56:33,414 - logger_File -INFO - user clicked on cart option
+2023-03-15 15:56:33,546 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 15:56:33,663 - logger_File -INFO - user clicked on add new address
+2023-03-15 15:56:34,688 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-15 15:56:34,771 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 15:56:39,326 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:56:39,640 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:56:39,703 - logger_File -INFO - user clicked on login button
+2023-03-15 15:56:40,008 - logger_File -INFO - user is login into account page
+2023-03-15 15:56:40,198 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 15:56:40,580 - logger_File -INFO - user searched for product Apex Legends
+2023-03-15 15:56:40,650 - logger_File -INFO - user clicked on search icon
+2023-03-15 15:56:40,836 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 15:56:46,026 - logger_File -INFO - user selected quantity 2
+2023-03-15 15:56:46,113 - logger_File -INFO - user clicked add to cart button
+2023-03-15 15:56:46,145 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 15:56:46,285 - logger_File -INFO - user clicked on cart option
+2023-03-15 15:56:46,407 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 15:56:46,483 - logger_File -INFO - user click on place your order button
+2023-03-15 15:56:46,497 - logger_File -INFO - password updated successfully
+2023-03-15 15:56:49,378 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:56:49,714 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:56:49,836 - logger_File -INFO - user clicked on login button
+2023-03-15 15:56:50,617 - logger_File -INFO - user is login into account page
+2023-03-15 15:56:50,928 - logger_File -INFO - user clicked on Account option
+2023-03-15 15:56:51,294 - logger_File -INFO - user updated Name and Phone values 
+2023-03-15 15:56:51,362 - logger_File -INFO - user clicked on Update button
+2023-03-15 15:57:34,871 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:57:35,226 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:57:35,289 - logger_File -INFO - user clicked on login button
+2023-03-15 15:57:35,589 - logger_File -INFO - user is login into account page
+2023-03-15 15:57:35,855 - logger_File -INFO - user clicked on Account option
+2023-03-15 15:57:36,304 - logger_File -INFO - user entered information
+2023-03-15 15:57:36,370 - logger_File -INFO - user clicked on change password button
+2023-03-15 15:57:36,371 - logger_File -INFO - password updated successfully
+2023-03-15 15:58:03,869 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:58:04,203 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 15:58:04,279 - logger_File -INFO - user clicked on login button
+2023-03-15 15:58:04,578 - logger_File -INFO - user is login into account page
+2023-03-15 15:58:04,825 - logger_File -INFO - user clicked on order section
+2023-03-15 15:58:04,825 - logger_File -INFO - user cliked on first order in list
+2023-03-15 15:58:04,969 - logger_File -INFO - user clicked on review button
+2023-03-15 15:58:05,269 - logger_File -INFO - user wrote a review
+2023-03-15 15:58:05,343 - logger_File -INFO - user clicked add your review
+2023-03-15 15:58:05,344 - logger_File -INFO - Your review was added successfully
+2023-03-15 15:58:11,766 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 15:58:12,051 - logger_File -INFO - user entered email transformers@tekschool.us and password Tek@12345
+2023-03-15 15:58:12,123 - logger_File -INFO - user clicked on login button
+2023-03-15 16:10:44,449 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:10:45,001 - logger_File -INFO - user entered email phantom.test@gmail.com and password Tek@12345
+2023-03-15 16:10:45,111 - logger_File -INFO - user clicked on login button
+2023-03-15 16:10:52,226 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:10:52,329 - logger_File -INFO - user clicked on Create New Account button
+2023-03-15 16:10:52,861 - logger_File -INFO - user filled the signUp information form
+2023-03-15 16:10:52,943 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-15 16:10:53,354 - logger_File -INFO - user is login into account page
+2023-03-15 16:12:12,403 - logger_File -INFO - user clicked on All section
+2023-03-15 16:12:12,681 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-15 16:12:12,734 - logger_File -INFO - Computers is equal to Computers
+2023-03-15 16:12:12,767 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-15 16:12:12,795 - logger_File -INFO - Sports is equal to Sports
+2023-03-15 16:12:12,824 - logger_File -INFO - Automative is equal to Automative
+2023-03-15 16:12:12,824 - logger_File -INFO - actual is equal to expected
+2023-03-15 16:12:15,724 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:12:16,117 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:12:16,200 - logger_File -INFO - user clicked on login button
+2023-03-15 16:12:16,514 - logger_File -INFO - user is login into account page
+2023-03-15 16:12:16,715 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:12:17,105 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:12:17,186 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:12:17,411 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:12:22,626 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:12:22,700 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:12:22,729 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:12:25,789 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:12:26,136 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:12:26,211 - logger_File -INFO - user clicked on login button
+2023-03-15 16:12:26,516 - logger_File -INFO - user is login into account page
+2023-03-15 16:12:26,681 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:12:27,038 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:12:27,110 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:12:27,305 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:12:32,474 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:12:32,549 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:12:32,579 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:12:32,730 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:12:32,864 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:12:32,981 - logger_File -INFO - user clicked on add new address
+2023-03-15 16:12:34,105 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-15 16:12:34,193 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:12:38,614 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:12:38,981 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:12:39,053 - logger_File -INFO - user clicked on login button
+2023-03-15 16:12:39,368 - logger_File -INFO - user is login into account page
+2023-03-15 16:12:39,535 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:12:39,890 - logger_File -INFO - user searched for product Apex Legends
+2023-03-15 16:12:39,965 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:12:40,163 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:12:45,348 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:12:45,420 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:12:45,448 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:12:45,575 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:12:45,715 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:12:45,802 - logger_File -INFO - user click on place your order button
+2023-03-15 16:12:45,815 - logger_File -INFO - password updated successfully
+2023-03-15 16:12:48,903 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:12:49,195 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:12:49,288 - logger_File -INFO - user clicked on login button
+2023-03-15 16:12:49,586 - logger_File -INFO - user is login into account page
+2023-03-15 16:12:49,791 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:12:50,111 - logger_File -INFO - user updated Name and Phone values 
+2023-03-15 16:12:50,185 - logger_File -INFO - user clicked on Update button
+2023-03-15 16:13:33,669 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:13:34,059 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:13:34,124 - logger_File -INFO - user clicked on login button
+2023-03-15 16:13:34,442 - logger_File -INFO - user is login into account page
+2023-03-15 16:13:34,781 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:13:35,157 - logger_File -INFO - user entered information
+2023-03-15 16:13:35,229 - logger_File -INFO - user clicked on change password button
+2023-03-15 16:13:35,230 - logger_File -INFO - password updated successfully
+2023-03-15 16:13:38,160 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:13:38,507 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:13:38,591 - logger_File -INFO - user clicked on login button
+2023-03-15 16:13:38,914 - logger_File -INFO - user is login into account page
+2023-03-15 16:13:39,118 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:13:39,214 - logger_File -INFO - user clicked add a payment method link
+2023-03-15 16:13:39,644 - logger_File -INFO - user filled debit or credit card information
+2023-03-15 16:13:39,718 - logger_File -INFO - user clicked on add your card
+2023-03-15 16:13:39,719 - logger_File -INFO - password updated successfully
+2023-03-15 16:13:42,719 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:13:43,026 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:13:43,101 - logger_File -INFO - user clicked on login button
+2023-03-15 16:13:43,412 - logger_File -INFO - user is login into account page
+2023-03-15 16:13:43,611 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:13:43,806 - logger_File -INFO - user clicked on remove option of card section
+2023-03-15 16:13:43,807 - logger_File -INFO - payment details should be removed
+2023-03-15 16:13:46,737 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:13:47,073 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:13:47,152 - logger_File -INFO - user clicked on login button
+2023-03-15 16:13:47,479 - logger_File -INFO - user is login into account page
+2023-03-15 16:13:47,684 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:13:47,830 - logger_File -INFO - user clicked on Add address option
+2023-03-15 16:13:48,701 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-15 16:13:48,777 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:13:48,778 - logger_File -INFO - password updated successfully
+2023-03-15 16:13:51,578 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:13:51,921 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:13:51,991 - logger_File -INFO - user clicked on login button
+2023-03-15 16:13:52,293 - logger_File -INFO - user is login into account page
+2023-03-15 16:13:52,492 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:13:52,676 - logger_File -INFO - user clicked on edit address option
+2023-03-15 16:13:53,655 - logger_File -INFO - user filled new address form with below information
+2023-03-15 16:13:53,727 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:13:53,729 - logger_File -INFO - password updated successfully
+2023-03-15 16:13:56,665 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:13:57,048 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:13:57,117 - logger_File -INFO - user clicked on login button
+2023-03-15 16:13:57,415 - logger_File -INFO - user is login into account page
+2023-03-15 16:13:57,603 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:13:57,704 - logger_File -INFO - user clicked on remove address section
+2023-03-15 16:13:57,704 - logger_File -INFO - Address details are removed
+2023-03-15 16:14:00,652 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:14:00,959 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:14:01,026 - logger_File -INFO - user clicked on login button
+2023-03-15 16:14:01,340 - logger_File -INFO - user is login into account page
+2023-03-15 16:14:01,548 - logger_File -INFO - user clicked on order section
+2023-03-15 16:14:01,549 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:14:01,699 - logger_File -INFO - user clicked on cancel order button
+2023-03-15 16:14:01,776 - logger_File -INFO - user selected cancelation reason
+2023-03-15 16:14:01,842 - logger_File -INFO - user clicked order button
+2023-03-15 16:14:01,843 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:14:04,670 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:14:04,985 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:14:05,078 - logger_File -INFO - user clicked on login button
+2023-03-15 16:14:05,410 - logger_File -INFO - user is login into account page
+2023-03-15 16:14:05,585 - logger_File -INFO - user clicked on order section
+2023-03-15 16:14:05,586 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:14:05,687 - logger_File -INFO - user clicked return items button
+2023-03-15 16:14:05,779 - logger_File -INFO - user selected return reason
+2023-03-15 16:14:05,855 - logger_File -INFO - user selected drop off service
+2023-03-15 16:14:05,916 - logger_File -INFO - user clicked on return order button
+2023-03-15 16:14:05,917 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:14:08,719 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:14:09,062 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:14:09,129 - logger_File -INFO - user clicked on login button
+2023-03-15 16:14:09,454 - logger_File -INFO - user is login into account page
+2023-03-15 16:14:09,612 - logger_File -INFO - user clicked on order section
+2023-03-15 16:14:09,613 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:14:09,719 - logger_File -INFO - user clicked on review button
+2023-03-15 16:14:10,017 - logger_File -INFO - user wrote a review
+2023-03-15 16:14:10,115 - logger_File -INFO - user clicked add your review
+2023-03-15 16:14:10,116 - logger_File -INFO - Your review was added successfully
+2023-03-15 16:14:13,941 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:14:14,296 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:14:14,371 - logger_File -INFO - user clicked on login button
+2023-03-15 16:14:14,770 - logger_File -INFO - user is login into account page
+2023-03-15 16:14:17,843 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:14:17,937 - logger_File -INFO - user clicked on Create New Account button
+2023-03-15 16:14:18,473 - logger_File -INFO - user filled the signUp information form
+2023-03-15 16:14:18,551 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-15 16:14:18,879 - logger_File -INFO - user is login into account page
+2023-03-15 16:20:09,176 - logger_File -INFO - user clicked on All section
+2023-03-15 16:20:09,387 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-15 16:20:09,519 - logger_File -INFO - Computers is equal to Computers
+2023-03-15 16:20:09,551 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-15 16:20:09,600 - logger_File -INFO - Sports is equal to Sports
+2023-03-15 16:20:09,629 - logger_File -INFO - Automative is equal to Automative
+2023-03-15 16:20:09,629 - logger_File -INFO - actual is equal to expected
+2023-03-15 16:20:12,680 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:20:13,020 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:20:13,095 - logger_File -INFO - user clicked on login button
+2023-03-15 16:20:14,041 - logger_File -INFO - user is login into account page
+2023-03-15 16:20:14,243 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:20:14,601 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:20:14,675 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:20:14,875 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:20:20,075 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:20:20,164 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:20:20,195 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:20:23,286 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:20:23,627 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:20:23,699 - logger_File -INFO - user clicked on login button
+2023-03-15 16:20:24,003 - logger_File -INFO - user is login into account page
+2023-03-15 16:20:24,171 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:20:24,542 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:20:24,617 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:20:24,838 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:20:30,027 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:20:30,101 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:20:30,127 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:20:30,247 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:20:30,380 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:20:30,383 - logger_File -INFO - user clicked on add new address
+2023-03-15 16:20:54,025 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:20:54,419 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:20:54,491 - logger_File -INFO - user clicked on login button
+2023-03-15 16:20:54,812 - logger_File -INFO - user is login into account page
+2023-03-15 16:20:55,006 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:20:55,362 - logger_File -INFO - user searched for product Apex Legends
+2023-03-15 16:20:55,432 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:20:55,659 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:21:00,849 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:21:00,923 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:21:00,952 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:21:01,062 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:21:01,191 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:21:01,266 - logger_File -INFO - user click on place your order button
+2023-03-15 16:21:01,279 - logger_File -INFO - password updated successfully
+2023-03-15 16:21:04,244 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:21:04,563 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:21:04,635 - logger_File -INFO - user clicked on login button
+2023-03-15 16:21:04,997 - logger_File -INFO - user is login into account page
+2023-03-15 16:21:05,254 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:21:05,607 - logger_File -INFO - user updated Name and Phone values 
+2023-03-15 16:21:05,688 - logger_File -INFO - user clicked on Update button
+2023-03-15 16:21:49,427 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:21:49,889 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:21:49,974 - logger_File -INFO - user clicked on login button
+2023-03-15 16:21:50,332 - logger_File -INFO - user is login into account page
+2023-03-15 16:21:50,614 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:21:51,030 - logger_File -INFO - user entered information
+2023-03-15 16:21:51,157 - logger_File -INFO - user clicked on change password button
+2023-03-15 16:21:51,158 - logger_File -INFO - password updated successfully
+2023-03-15 16:21:54,134 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:21:54,526 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:21:54,600 - logger_File -INFO - user clicked on login button
+2023-03-15 16:21:54,912 - logger_File -INFO - user is login into account page
+2023-03-15 16:21:55,169 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:21:55,284 - logger_File -INFO - user clicked add a payment method link
+2023-03-15 16:21:55,739 - logger_File -INFO - user filled debit or credit card information
+2023-03-15 16:21:55,799 - logger_File -INFO - user clicked on add your card
+2023-03-15 16:21:55,800 - logger_File -INFO - password updated successfully
+2023-03-15 16:21:58,677 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:21:59,120 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:21:59,192 - logger_File -INFO - user clicked on login button
+2023-03-15 16:21:59,527 - logger_File -INFO - user is login into account page
+2023-03-15 16:21:59,753 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:21:59,995 - logger_File -INFO - user clicked on remove option of card section
+2023-03-15 16:21:59,996 - logger_File -INFO - payment details should be removed
+2023-03-15 16:22:02,932 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:22:03,269 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:22:03,345 - logger_File -INFO - user clicked on login button
+2023-03-15 16:22:03,658 - logger_File -INFO - user is login into account page
+2023-03-15 16:22:03,909 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:22:04,074 - logger_File -INFO - user clicked on Add address option
+2023-03-15 16:22:05,393 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-15 16:22:05,495 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:22:05,496 - logger_File -INFO - password updated successfully
+2023-03-15 16:22:08,431 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:22:08,785 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:22:08,856 - logger_File -INFO - user clicked on login button
+2023-03-15 16:22:09,178 - logger_File -INFO - user is login into account page
+2023-03-15 16:22:09,459 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:22:09,661 - logger_File -INFO - user clicked on edit address option
+2023-03-15 16:22:10,660 - logger_File -INFO - user filled new address form with below information
+2023-03-15 16:22:10,731 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:22:10,732 - logger_File -INFO - password updated successfully
+2023-03-15 16:22:13,686 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:22:14,010 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:22:14,086 - logger_File -INFO - user clicked on login button
+2023-03-15 16:22:14,396 - logger_File -INFO - user is login into account page
+2023-03-15 16:22:14,604 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:22:14,734 - logger_File -INFO - user clicked on remove address section
+2023-03-15 16:22:14,735 - logger_File -INFO - Address details are removed
+2023-03-15 16:22:17,617 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:22:17,932 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:22:18,007 - logger_File -INFO - user clicked on login button
+2023-03-15 16:22:18,314 - logger_File -INFO - user is login into account page
+2023-03-15 16:22:18,533 - logger_File -INFO - user clicked on order section
+2023-03-15 16:22:18,533 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:22:18,687 - logger_File -INFO - user clicked on cancel order button
+2023-03-15 16:22:18,783 - logger_File -INFO - user selected cancelation reason
+2023-03-15 16:22:18,855 - logger_File -INFO - user clicked order button
+2023-03-15 16:22:18,856 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:22:21,685 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:22:22,017 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:22:22,087 - logger_File -INFO - user clicked on login button
+2023-03-15 16:22:22,431 - logger_File -INFO - user is login into account page
+2023-03-15 16:22:22,600 - logger_File -INFO - user clicked on order section
+2023-03-15 16:22:22,601 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:22:22,732 - logger_File -INFO - user clicked return items button
+2023-03-15 16:22:22,817 - logger_File -INFO - user selected return reason
+2023-03-15 16:22:22,879 - logger_File -INFO - user selected drop off service
+2023-03-15 16:22:22,953 - logger_File -INFO - user clicked on return order button
+2023-03-15 16:22:22,953 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:22:25,850 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:22:26,180 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:22:26,285 - logger_File -INFO - user clicked on login button
+2023-03-15 16:22:26,597 - logger_File -INFO - user is login into account page
+2023-03-15 16:22:26,730 - logger_File -INFO - user clicked on order section
+2023-03-15 16:22:26,737 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:22:26,934 - logger_File -INFO - user clicked on review button
+2023-03-15 16:22:27,344 - logger_File -INFO - user wrote a review
+2023-03-15 16:22:27,400 - logger_File -INFO - user clicked add your review
+2023-03-15 16:22:27,401 - logger_File -INFO - Your review was added successfully
+2023-03-15 16:22:30,481 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:22:30,811 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:22:30,877 - logger_File -INFO - user clicked on login button
+2023-03-15 16:22:31,191 - logger_File -INFO - user is login into account page
+2023-03-15 16:22:34,063 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:22:34,155 - logger_File -INFO - user clicked on Create New Account button
+2023-03-15 16:22:34,643 - logger_File -INFO - user filled the signUp information form
+2023-03-15 16:22:34,713 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-15 16:22:35,025 - logger_File -INFO - user is login into account page
+2023-03-15 16:24:55,957 - logger_File -INFO - user clicked on All section
+2023-03-15 16:24:56,054 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-15 16:24:56,099 - logger_File -INFO - Computers is equal to Computers
+2023-03-15 16:24:56,131 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-15 16:24:56,160 - logger_File -INFO - Sports is equal to Sports
+2023-03-15 16:24:56,190 - logger_File -INFO - Automative is equal to Automative
+2023-03-15 16:24:56,190 - logger_File -INFO - actual is equal to expected
+2023-03-15 16:24:59,153 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:24:59,520 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:24:59,607 - logger_File -INFO - user clicked on login button
+2023-03-15 16:25:00,444 - logger_File -INFO - user is login into account page
+2023-03-15 16:25:00,653 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:25:01,011 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:25:01,090 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:25:01,294 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:25:06,500 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:25:06,573 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:25:06,601 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:25:09,656 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:25:09,970 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:25:10,042 - logger_File -INFO - user clicked on login button
+2023-03-15 16:25:10,783 - logger_File -INFO - user is login into account page
+2023-03-15 16:25:10,949 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:25:11,332 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:25:11,409 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:25:11,602 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:25:16,792 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:25:16,869 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:25:16,897 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:25:17,016 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:25:17,154 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:25:17,155 - logger_File -INFO - user clicked on add new address
+2023-03-15 16:25:40,800 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:25:41,134 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:25:41,208 - logger_File -INFO - user clicked on login button
+2023-03-15 16:25:41,515 - logger_File -INFO - user is login into account page
+2023-03-15 16:25:41,748 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:25:42,102 - logger_File -INFO - user searched for product Apex Legends
+2023-03-15 16:25:42,178 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:25:42,360 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:25:47,545 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:25:47,644 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:25:47,675 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:25:47,796 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:25:47,918 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:25:47,997 - logger_File -INFO - user click on place your order button
+2023-03-15 16:25:48,017 - logger_File -INFO - password updated successfully
+2023-03-15 16:25:51,017 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:25:51,332 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:25:51,400 - logger_File -INFO - user clicked on login button
+2023-03-15 16:25:51,706 - logger_File -INFO - user is login into account page
+2023-03-15 16:25:51,912 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:25:52,245 - logger_File -INFO - user updated Name and Phone values 
+2023-03-15 16:25:52,321 - logger_File -INFO - user clicked on Update button
+2023-03-15 16:25:52,324 - logger_File -INFO - user profile information updated
+2023-03-15 16:25:56,631 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:25:56,938 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:25:57,018 - logger_File -INFO - user clicked on login button
+2023-03-15 16:25:57,352 - logger_File -INFO - user is login into account page
+2023-03-15 16:25:57,573 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:25:57,986 - logger_File -INFO - user entered information
+2023-03-15 16:25:58,068 - logger_File -INFO - user clicked on change password button
+2023-03-15 16:25:58,070 - logger_File -INFO - password updated successfully
+2023-03-15 16:26:01,086 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:26:01,402 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:26:01,470 - logger_File -INFO - user clicked on login button
+2023-03-15 16:26:01,766 - logger_File -INFO - user is login into account page
+2023-03-15 16:26:01,970 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:26:02,083 - logger_File -INFO - user clicked add a payment method link
+2023-03-15 16:26:02,527 - logger_File -INFO - user filled debit or credit card information
+2023-03-15 16:26:02,591 - logger_File -INFO - user clicked on add your card
+2023-03-15 16:26:02,592 - logger_File -INFO - password updated successfully
+2023-03-15 16:26:05,463 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:26:05,782 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:26:05,852 - logger_File -INFO - user clicked on login button
+2023-03-15 16:26:06,160 - logger_File -INFO - user is login into account page
+2023-03-15 16:26:06,351 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:26:06,568 - logger_File -INFO - user clicked on remove option of card section
+2023-03-15 16:26:06,572 - logger_File -INFO - payment details should be removed
+2023-03-15 16:26:09,662 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:26:10,025 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:26:10,089 - logger_File -INFO - user clicked on login button
+2023-03-15 16:26:10,439 - logger_File -INFO - user is login into account page
+2023-03-15 16:26:10,649 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:26:10,848 - logger_File -INFO - user clicked on Add address option
+2023-03-15 16:26:11,995 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-15 16:26:12,073 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:26:12,074 - logger_File -INFO - password updated successfully
+2023-03-15 16:26:15,135 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:26:15,470 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:26:15,549 - logger_File -INFO - user clicked on login button
+2023-03-15 16:26:15,858 - logger_File -INFO - user is login into account page
+2023-03-15 16:26:16,058 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:26:16,241 - logger_File -INFO - user clicked on edit address option
+2023-03-15 16:26:17,268 - logger_File -INFO - user filled new address form with below information
+2023-03-15 16:26:17,334 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:26:17,337 - logger_File -INFO - password updated successfully
+2023-03-15 16:26:20,527 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:26:20,817 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:26:20,883 - logger_File -INFO - user clicked on login button
+2023-03-15 16:26:21,387 - logger_File -INFO - user is login into account page
+2023-03-15 16:26:21,593 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:26:21,792 - logger_File -INFO - user clicked on remove address section
+2023-03-15 16:26:21,794 - logger_File -INFO - Address details are removed
+2023-03-15 16:26:25,370 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:26:25,651 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:26:25,716 - logger_File -INFO - user clicked on login button
+2023-03-15 16:26:26,134 - logger_File -INFO - user is login into account page
+2023-03-15 16:26:26,267 - logger_File -INFO - user clicked on order section
+2023-03-15 16:26:26,269 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:26:26,647 - logger_File -INFO - user clicked on cancel order button
+2023-03-15 16:26:26,719 - logger_File -INFO - user selected cancelation reason
+2023-03-15 16:26:26,788 - logger_File -INFO - user clicked order button
+2023-03-15 16:26:26,789 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:26:29,971 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:26:30,241 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:26:30,310 - logger_File -INFO - user clicked on login button
+2023-03-15 16:26:30,742 - logger_File -INFO - user is login into account page
+2023-03-15 16:26:30,856 - logger_File -INFO - user clicked on order section
+2023-03-15 16:26:30,857 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:26:31,318 - logger_File -INFO - user clicked return items button
+2023-03-15 16:26:31,396 - logger_File -INFO - user selected return reason
+2023-03-15 16:26:31,467 - logger_File -INFO - user selected drop off service
+2023-03-15 16:26:31,537 - logger_File -INFO - user clicked on return order button
+2023-03-15 16:26:31,538 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:26:34,508 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:26:34,820 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:26:34,887 - logger_File -INFO - user clicked on login button
+2023-03-15 16:26:35,206 - logger_File -INFO - user is login into account page
+2023-03-15 16:26:35,374 - logger_File -INFO - user clicked on order section
+2023-03-15 16:26:35,377 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:26:35,494 - logger_File -INFO - user clicked on review button
+2023-03-15 16:26:35,772 - logger_File -INFO - user wrote a review
+2023-03-15 16:26:35,847 - logger_File -INFO - user clicked add your review
+2023-03-15 16:26:35,848 - logger_File -INFO - Your review was added successfully
+2023-03-15 16:26:38,717 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:26:39,047 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:26:39,110 - logger_File -INFO - user clicked on login button
+2023-03-15 16:26:39,400 - logger_File -INFO - user is login into account page
+2023-03-15 16:26:42,247 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:26:42,338 - logger_File -INFO - user clicked on Create New Account button
+2023-03-15 16:26:42,814 - logger_File -INFO - user filled the signUp information form
+2023-03-15 16:26:42,895 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-15 16:26:43,241 - logger_File -INFO - user is login into account page
+2023-03-15 16:33:39,517 - logger_File -INFO - user clicked on All section
+2023-03-15 16:33:39,607 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-15 16:33:39,647 - logger_File -INFO - Computers is equal to Computers
+2023-03-15 16:33:39,681 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-15 16:33:39,711 - logger_File -INFO - Sports is equal to Sports
+2023-03-15 16:33:39,739 - logger_File -INFO - Automative is equal to Automative
+2023-03-15 16:33:39,739 - logger_File -INFO - actual is equal to expected
+2023-03-15 16:33:42,827 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:33:43,214 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:33:43,284 - logger_File -INFO - user clicked on login button
+2023-03-15 16:33:43,594 - logger_File -INFO - user is login into account page
+2023-03-15 16:33:43,793 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:33:44,148 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:33:44,233 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:33:44,430 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:33:49,615 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:33:49,690 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:33:49,719 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:33:52,809 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:33:53,132 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:33:53,206 - logger_File -INFO - user clicked on login button
+2023-03-15 16:33:53,492 - logger_File -INFO - user is login into account page
+2023-03-15 16:33:53,624 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:33:53,996 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:33:54,067 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:33:54,296 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:33:59,494 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:33:59,595 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:33:59,622 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:33:59,748 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:33:59,878 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:33:59,880 - logger_File -INFO - user clicked on add new address
+2023-03-15 16:34:23,369 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:34:23,684 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:34:23,761 - logger_File -INFO - user clicked on login button
+2023-03-15 16:34:24,086 - logger_File -INFO - user is login into account page
+2023-03-15 16:34:24,259 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:34:24,613 - logger_File -INFO - user searched for product Apex Legends
+2023-03-15 16:34:24,686 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:34:24,880 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:34:30,070 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:34:30,144 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:34:30,177 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:34:30,285 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:34:30,418 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:34:30,515 - logger_File -INFO - user click on place your order button
+2023-03-15 16:34:30,530 - logger_File -INFO - password updated successfully
+2023-03-15 16:34:33,617 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:34:33,907 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:34:33,996 - logger_File -INFO - user clicked on login button
+2023-03-15 16:34:34,304 - logger_File -INFO - user is login into account page
+2023-03-15 16:34:34,556 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:34:34,915 - logger_File -INFO - user updated Name and Phone values 
+2023-03-15 16:34:34,985 - logger_File -INFO - user clicked on Update button
+2023-03-15 16:34:34,986 - logger_File -INFO - user profile information updated
+2023-03-15 16:34:37,881 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:34:38,245 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:34:38,320 - logger_File -INFO - user clicked on login button
+2023-03-15 16:34:38,650 - logger_File -INFO - user is login into account page
+2023-03-15 16:34:38,850 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:34:39,252 - logger_File -INFO - user entered information
+2023-03-15 16:34:39,339 - logger_File -INFO - user clicked on change password button
+2023-03-15 16:34:39,340 - logger_File -INFO - password updated successfully
+2023-03-15 16:34:42,278 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:34:42,611 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:34:42,676 - logger_File -INFO - user clicked on login button
+2023-03-15 16:34:42,977 - logger_File -INFO - user is login into account page
+2023-03-15 16:34:43,191 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:34:43,343 - logger_File -INFO - user clicked add a payment method link
+2023-03-15 16:34:43,788 - logger_File -INFO - user filled debit or credit card information
+2023-03-15 16:34:43,867 - logger_File -INFO - user clicked on add your card
+2023-03-15 16:34:43,868 - logger_File -INFO - password updated successfully
+2023-03-15 16:34:46,831 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:34:47,170 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:34:47,240 - logger_File -INFO - user clicked on login button
+2023-03-15 16:34:47,556 - logger_File -INFO - user is login into account page
+2023-03-15 16:34:47,776 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:34:47,981 - logger_File -INFO - user clicked on remove option of card section
+2023-03-15 16:34:47,982 - logger_File -INFO - payment details should be removed
+2023-03-15 16:34:50,780 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:34:51,114 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:34:51,186 - logger_File -INFO - user clicked on login button
+2023-03-15 16:34:51,485 - logger_File -INFO - user is login into account page
+2023-03-15 16:34:51,736 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:34:51,906 - logger_File -INFO - user clicked on Add address option
+2023-03-15 16:35:36,781 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:35:37,160 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:35:37,248 - logger_File -INFO - user clicked on login button
+2023-03-15 16:35:37,587 - logger_File -INFO - user is login into account page
+2023-03-15 16:35:37,819 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:35:37,969 - logger_File -INFO - user clicked on edit address option
+2023-03-15 16:35:39,271 - logger_File -INFO - user filled new address form with below information
+2023-03-15 16:35:39,346 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:35:39,349 - logger_File -INFO - password updated successfully
+2023-03-15 16:35:42,236 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:35:42,597 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:35:42,679 - logger_File -INFO - user clicked on login button
+2023-03-15 16:35:42,975 - logger_File -INFO - user is login into account page
+2023-03-15 16:35:43,221 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:35:43,363 - logger_File -INFO - user clicked on remove address section
+2023-03-15 16:35:43,364 - logger_File -INFO - Address details are removed
+2023-03-15 16:35:46,337 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:35:46,663 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:35:46,742 - logger_File -INFO - user clicked on login button
+2023-03-15 16:35:47,078 - logger_File -INFO - user is login into account page
+2023-03-15 16:35:47,194 - logger_File -INFO - user clicked on order section
+2023-03-15 16:35:47,195 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:35:47,420 - logger_File -INFO - user clicked on cancel order button
+2023-03-15 16:35:47,492 - logger_File -INFO - user selected cancelation reason
+2023-03-15 16:35:47,560 - logger_File -INFO - user clicked order button
+2023-03-15 16:35:47,561 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:35:50,784 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:35:51,174 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:35:51,235 - logger_File -INFO - user clicked on login button
+2023-03-15 16:35:51,548 - logger_File -INFO - user is login into account page
+2023-03-15 16:35:51,734 - logger_File -INFO - user clicked on order section
+2023-03-15 16:35:51,734 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:35:51,888 - logger_File -INFO - user clicked return items button
+2023-03-15 16:35:51,993 - logger_File -INFO - user selected return reason
+2023-03-15 16:35:52,066 - logger_File -INFO - user selected drop off service
+2023-03-15 16:35:52,126 - logger_File -INFO - user clicked on return order button
+2023-03-15 16:35:52,127 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:35:55,239 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:35:55,605 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:35:55,672 - logger_File -INFO - user clicked on login button
+2023-03-15 16:35:55,992 - logger_File -INFO - user is login into account page
+2023-03-15 16:35:56,194 - logger_File -INFO - user clicked on order section
+2023-03-15 16:35:56,195 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:35:56,384 - logger_File -INFO - user clicked on review button
+2023-03-15 16:35:56,657 - logger_File -INFO - user wrote a review
+2023-03-15 16:35:56,737 - logger_File -INFO - user clicked add your review
+2023-03-15 16:35:56,742 - logger_File -INFO - Your review was added successfully
+2023-03-15 16:35:59,708 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:36:00,055 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:36:00,127 - logger_File -INFO - user clicked on login button
+2023-03-15 16:36:00,410 - logger_File -INFO - user is login into account page
+2023-03-15 16:36:03,372 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:36:03,475 - logger_File -INFO - user clicked on Create New Account button
+2023-03-15 16:36:03,990 - logger_File -INFO - user filled the signUp information form
+2023-03-15 16:36:04,053 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-15 16:36:04,376 - logger_File -INFO - user is login into account page
+2023-03-15 16:37:23,226 - logger_File -INFO - user clicked on All section
+2023-03-15 16:37:23,317 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-15 16:37:23,351 - logger_File -INFO - Computers is equal to Computers
+2023-03-15 16:37:23,382 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-15 16:37:23,411 - logger_File -INFO - Sports is equal to Sports
+2023-03-15 16:37:23,439 - logger_File -INFO - Automative is equal to Automative
+2023-03-15 16:37:23,440 - logger_File -INFO - actual is equal to expected
+2023-03-15 16:37:26,372 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:37:26,716 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:37:26,806 - logger_File -INFO - user clicked on login button
+2023-03-15 16:37:27,145 - logger_File -INFO - user is login into account page
+2023-03-15 16:37:27,364 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:37:27,703 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:37:27,776 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:37:27,974 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:37:33,166 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:37:33,241 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:37:33,270 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:37:36,370 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:37:36,703 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:37:36,771 - logger_File -INFO - user clicked on login button
+2023-03-15 16:37:37,076 - logger_File -INFO - user is login into account page
+2023-03-15 16:37:37,241 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:37:37,607 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:37:37,686 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:37:37,895 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:37:43,088 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:37:43,164 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:37:43,191 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:37:43,311 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:37:43,445 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:37:43,446 - logger_File -INFO - user clicked on add new address
+2023-03-15 16:38:27,270 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:38:27,580 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:38:27,655 - logger_File -INFO - user clicked on login button
+2023-03-15 16:38:27,969 - logger_File -INFO - user is login into account page
+2023-03-15 16:38:28,152 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:38:28,505 - logger_File -INFO - user searched for product Apex Legends
+2023-03-15 16:38:28,575 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:38:28,771 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:38:33,970 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:38:34,051 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:38:34,077 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:38:34,195 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:38:34,364 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:38:34,451 - logger_File -INFO - user click on place your order button
+2023-03-15 16:38:34,470 - logger_File -INFO - password updated successfully
+2023-03-15 16:38:37,519 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:38:37,916 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:38:37,999 - logger_File -INFO - user clicked on login button
+2023-03-15 16:38:38,337 - logger_File -INFO - user is login into account page
+2023-03-15 16:38:38,754 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:38:39,211 - logger_File -INFO - user updated Name and Phone values 
+2023-03-15 16:38:39,292 - logger_File -INFO - user clicked on Update button
+2023-03-15 16:38:39,294 - logger_File -INFO - user profile information updated
+2023-03-15 16:38:42,142 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:38:42,492 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:38:42,563 - logger_File -INFO - user clicked on login button
+2023-03-15 16:38:42,885 - logger_File -INFO - user is login into account page
+2023-03-15 16:38:43,107 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:38:43,476 - logger_File -INFO - user entered information
+2023-03-15 16:38:43,543 - logger_File -INFO - user clicked on change password button
+2023-03-15 16:38:43,545 - logger_File -INFO - password updated successfully
+2023-03-15 16:38:46,386 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:38:46,704 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:38:46,768 - logger_File -INFO - user clicked on login button
+2023-03-15 16:38:47,082 - logger_File -INFO - user is login into account page
+2023-03-15 16:38:47,279 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:38:47,483 - logger_File -INFO - user clicked add a payment method link
+2023-03-15 16:38:47,926 - logger_File -INFO - user filled debit or credit card information
+2023-03-15 16:38:47,992 - logger_File -INFO - user clicked on add your card
+2023-03-15 16:38:47,993 - logger_File -INFO - password updated successfully
+2023-03-15 16:38:50,834 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:38:51,158 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:38:51,224 - logger_File -INFO - user clicked on login button
+2023-03-15 16:38:51,525 - logger_File -INFO - user is login into account page
+2023-03-15 16:38:51,745 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:38:51,986 - logger_File -INFO - user clicked on remove option of card section
+2023-03-15 16:38:51,987 - logger_File -INFO - payment details should be removed
+2023-03-15 16:38:54,675 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:38:54,966 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:38:55,038 - logger_File -INFO - user clicked on login button
+2023-03-15 16:38:55,526 - logger_File -INFO - user is login into account page
+2023-03-15 16:38:55,744 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:38:55,951 - logger_File -INFO - user clicked on Add address option
+2023-03-15 16:39:20,609 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:39:20,970 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:39:21,040 - logger_File -INFO - user clicked on login button
+2023-03-15 16:39:21,375 - logger_File -INFO - user is login into account page
+2023-03-15 16:39:21,614 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:39:21,806 - logger_File -INFO - user clicked on edit address option
+2023-03-15 16:40:06,496 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:40:06,853 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:40:06,923 - logger_File -INFO - user clicked on login button
+2023-03-15 16:40:07,262 - logger_File -INFO - user is login into account page
+2023-03-15 16:40:07,517 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:40:07,653 - logger_File -INFO - user clicked on remove address section
+2023-03-15 16:40:07,654 - logger_File -INFO - Address details are removed
+2023-03-15 16:40:10,474 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:40:10,765 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:40:10,840 - logger_File -INFO - user clicked on login button
+2023-03-15 16:40:12,112 - logger_File -INFO - user is login into account page
+2023-03-15 16:40:12,225 - logger_File -INFO - user clicked on order section
+2023-03-15 16:40:12,225 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:40:12,393 - logger_File -INFO - user clicked on cancel order button
+2023-03-15 16:40:12,479 - logger_File -INFO - user selected cancelation reason
+2023-03-15 16:40:12,542 - logger_File -INFO - user clicked order button
+2023-03-15 16:40:12,544 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:40:15,409 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:40:15,749 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:40:15,814 - logger_File -INFO - user clicked on login button
+2023-03-15 16:40:16,103 - logger_File -INFO - user is login into account page
+2023-03-15 16:40:16,215 - logger_File -INFO - user clicked on order section
+2023-03-15 16:40:16,217 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:40:16,397 - logger_File -INFO - user clicked return items button
+2023-03-15 16:40:16,468 - logger_File -INFO - user selected return reason
+2023-03-15 16:40:16,531 - logger_File -INFO - user selected drop off service
+2023-03-15 16:40:16,592 - logger_File -INFO - user clicked on return order button
+2023-03-15 16:40:16,592 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:40:19,346 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:40:19,672 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:40:19,745 - logger_File -INFO - user clicked on login button
+2023-03-15 16:40:20,038 - logger_File -INFO - user is login into account page
+2023-03-15 16:40:20,220 - logger_File -INFO - user clicked on order section
+2023-03-15 16:40:20,221 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:40:20,336 - logger_File -INFO - user clicked on review button
+2023-03-15 16:40:20,598 - logger_File -INFO - user wrote a review
+2023-03-15 16:40:20,674 - logger_File -INFO - user clicked add your review
+2023-03-15 16:40:20,676 - logger_File -INFO - Your review was added successfully
+2023-03-15 16:40:23,440 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:40:23,736 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:40:23,816 - logger_File -INFO - user clicked on login button
+2023-03-15 16:40:24,178 - logger_File -INFO - user is login into account page
+2023-03-15 16:40:27,012 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:40:27,119 - logger_File -INFO - user clicked on Create New Account button
+2023-03-15 16:40:27,619 - logger_File -INFO - user filled the signUp information form
+2023-03-15 16:40:27,687 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-15 16:40:27,985 - logger_File -INFO - user is login into account page
+2023-03-15 16:42:30,845 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:42:31,203 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:42:31,283 - logger_File -INFO - user clicked on login button
+2023-03-15 16:42:31,600 - logger_File -INFO - user is login into account page
+2023-03-15 16:42:31,838 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:42:32,183 - logger_File -INFO - user updated Name and Phone values 
+2023-03-15 16:42:32,314 - logger_File -INFO - user clicked on Update button
+2023-03-15 16:42:32,316 - logger_File -INFO - user profile information updated
+2023-03-15 16:42:35,354 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:42:35,709 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:42:35,783 - logger_File -INFO - user clicked on login button
+2023-03-15 16:42:36,094 - logger_File -INFO - user is login into account page
+2023-03-15 16:42:36,340 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:42:36,725 - logger_File -INFO - user entered information
+2023-03-15 16:42:36,797 - logger_File -INFO - user clicked on change password button
+2023-03-15 16:42:36,798 - logger_File -INFO - password updated successfully
+2023-03-15 16:42:39,671 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:42:39,996 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:42:40,069 - logger_File -INFO - user clicked on login button
+2023-03-15 16:42:40,375 - logger_File -INFO - user is login into account page
+2023-03-15 16:42:40,598 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:42:40,707 - logger_File -INFO - user clicked add a payment method link
+2023-03-15 16:42:41,152 - logger_File -INFO - user filled debit or credit card information
+2023-03-15 16:42:41,230 - logger_File -INFO - user clicked on add your card
+2023-03-15 16:42:41,231 - logger_File -INFO - password updated successfully
+2023-03-15 16:42:44,438 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:42:44,793 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:42:44,885 - logger_File -INFO - user clicked on login button
+2023-03-15 16:42:45,182 - logger_File -INFO - user is login into account page
+2023-03-15 16:42:45,435 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:42:45,670 - logger_File -INFO - user clicked on remove option of card section
+2023-03-15 16:42:45,671 - logger_File -INFO - payment details should be removed
+2023-03-15 16:42:48,630 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:42:48,950 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:42:49,026 - logger_File -INFO - user clicked on login button
+2023-03-15 16:42:49,347 - logger_File -INFO - user is login into account page
+2023-03-15 16:42:49,570 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:42:49,743 - logger_File -INFO - user clicked on Add address option
+2023-03-15 16:42:50,887 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-15 16:42:50,972 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:42:50,973 - logger_File -INFO - password updated successfully
+2023-03-15 16:42:53,841 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:42:54,495 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:42:54,570 - logger_File -INFO - user clicked on login button
+2023-03-15 16:42:54,882 - logger_File -INFO - user is login into account page
+2023-03-15 16:42:55,202 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:42:55,367 - logger_File -INFO - user clicked on edit address option
+2023-03-15 16:42:56,412 - logger_File -INFO - user filled new address form with below information
+2023-03-15 16:42:56,476 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:42:56,476 - logger_File -INFO - password updated successfully
+2023-03-15 16:42:59,559 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:42:59,864 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:42:59,962 - logger_File -INFO - user clicked on login button
+2023-03-15 16:43:00,270 - logger_File -INFO - user is login into account page
+2023-03-15 16:43:00,488 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:43:00,624 - logger_File -INFO - user clicked on remove address section
+2023-03-15 16:43:00,625 - logger_File -INFO - Address details are removed
+2023-03-15 16:43:37,738 - logger_File -INFO - user clicked on All section
+2023-03-15 16:43:37,971 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-15 16:43:38,043 - logger_File -INFO - Computers is equal to Computers
+2023-03-15 16:43:38,120 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-15 16:43:38,167 - logger_File -INFO - Sports is equal to Sports
+2023-03-15 16:43:38,199 - logger_File -INFO - Automative is equal to Automative
+2023-03-15 16:43:38,199 - logger_File -INFO - actual is equal to expected
+2023-03-15 16:43:42,427 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:43:42,807 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:43:42,886 - logger_File -INFO - user clicked on login button
+2023-03-15 16:43:43,170 - logger_File -INFO - user is login into account page
+2023-03-15 16:43:43,356 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:43:43,727 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:43:43,805 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:43:44,035 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:43:49,219 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:43:49,300 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:43:49,325 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:43:52,377 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:43:52,691 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:43:52,773 - logger_File -INFO - user clicked on login button
+2023-03-15 16:43:53,077 - logger_File -INFO - user is login into account page
+2023-03-15 16:43:53,239 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:43:53,619 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:43:53,692 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:43:53,887 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:43:59,091 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:43:59,163 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:43:59,191 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:43:59,325 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:43:59,460 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:43:59,460 - logger_File -INFO - user clicked on add new address
+2023-03-15 16:44:43,164 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:44:43,486 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:44:43,561 - logger_File -INFO - user clicked on login button
+2023-03-15 16:44:43,875 - logger_File -INFO - user is login into account page
+2023-03-15 16:44:44,118 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:44:44,578 - logger_File -INFO - user searched for product Apex Legends
+2023-03-15 16:44:44,656 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:44:44,851 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:44:50,039 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:44:50,115 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:44:50,160 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:44:50,274 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:44:50,414 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:44:50,509 - logger_File -INFO - user click on place your order button
+2023-03-15 16:44:50,524 - logger_File -INFO - password updated successfully
+2023-03-15 16:44:53,443 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:44:53,771 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:44:53,845 - logger_File -INFO - user clicked on login button
+2023-03-15 16:44:54,207 - logger_File -INFO - user is login into account page
+2023-03-15 16:44:54,445 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:44:54,785 - logger_File -INFO - user updated Name and Phone values 
+2023-03-15 16:44:54,860 - logger_File -INFO - user clicked on Update button
+2023-03-15 16:44:54,860 - logger_File -INFO - user profile information updated
+2023-03-15 16:44:57,654 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:44:57,974 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:44:58,054 - logger_File -INFO - user clicked on login button
+2023-03-15 16:44:58,399 - logger_File -INFO - user is login into account page
+2023-03-15 16:44:58,645 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:44:59,055 - logger_File -INFO - user entered information
+2023-03-15 16:44:59,124 - logger_File -INFO - user clicked on change password button
+2023-03-15 16:44:59,125 - logger_File -INFO - password updated successfully
+2023-03-15 16:45:01,985 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:45:02,347 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:45:02,411 - logger_File -INFO - user clicked on login button
+2023-03-15 16:45:02,704 - logger_File -INFO - user is login into account page
+2023-03-15 16:45:02,890 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:45:03,033 - logger_File -INFO - user clicked add a payment method link
+2023-03-15 16:45:03,474 - logger_File -INFO - user filled debit or credit card information
+2023-03-15 16:45:03,546 - logger_File -INFO - user clicked on add your card
+2023-03-15 16:45:03,547 - logger_File -INFO - password updated successfully
+2023-03-15 16:45:06,316 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:45:06,651 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:45:06,725 - logger_File -INFO - user clicked on login button
+2023-03-15 16:45:07,103 - logger_File -INFO - user is login into account page
+2023-03-15 16:45:07,335 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:45:07,527 - logger_File -INFO - user clicked on remove option of card section
+2023-03-15 16:45:07,528 - logger_File -INFO - payment details should be removed
+2023-03-15 16:45:10,379 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:45:10,672 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:45:10,749 - logger_File -INFO - user clicked on login button
+2023-03-15 16:45:12,001 - logger_File -INFO - user is login into account page
+2023-03-15 16:45:12,167 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:45:12,398 - logger_File -INFO - user clicked on Add address option
+2023-03-15 16:45:13,465 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-15 16:45:13,545 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:45:13,546 - logger_File -INFO - password updated successfully
+2023-03-15 16:45:17,920 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:45:18,202 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:45:18,267 - logger_File -INFO - user clicked on login button
+2023-03-15 16:45:18,731 - logger_File -INFO - user is login into account page
+2023-03-15 16:45:18,901 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:45:19,108 - logger_File -INFO - user clicked on edit address option
+2023-03-15 16:45:20,198 - logger_File -INFO - user filled new address form with below information
+2023-03-15 16:45:20,271 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:45:20,273 - logger_File -INFO - password updated successfully
+2023-03-15 16:45:23,345 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:45:23,694 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:45:23,783 - logger_File -INFO - user clicked on login button
+2023-03-15 16:45:24,079 - logger_File -INFO - user is login into account page
+2023-03-15 16:45:24,269 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:45:24,622 - logger_File -INFO - user clicked on remove address section
+2023-03-15 16:45:24,623 - logger_File -INFO - Address details are removed
+2023-03-15 16:45:27,489 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:45:27,839 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:45:27,911 - logger_File -INFO - user clicked on login button
+2023-03-15 16:45:28,197 - logger_File -INFO - user is login into account page
+2023-03-15 16:45:28,342 - logger_File -INFO - user clicked on order section
+2023-03-15 16:45:28,345 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:45:28,516 - logger_File -INFO - user clicked on cancel order button
+2023-03-15 16:45:28,603 - logger_File -INFO - user selected cancelation reason
+2023-03-15 16:45:28,673 - logger_File -INFO - user clicked order button
+2023-03-15 16:45:28,675 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:45:31,637 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:45:31,943 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:45:32,012 - logger_File -INFO - user clicked on login button
+2023-03-15 16:45:32,320 - logger_File -INFO - user is login into account page
+2023-03-15 16:45:32,524 - logger_File -INFO - user clicked on order section
+2023-03-15 16:45:32,525 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:45:32,671 - logger_File -INFO - user clicked return items button
+2023-03-15 16:45:32,796 - logger_File -INFO - user selected return reason
+2023-03-15 16:45:32,871 - logger_File -INFO - user selected drop off service
+2023-03-15 16:45:32,950 - logger_File -INFO - user clicked on return order button
+2023-03-15 16:45:32,951 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:45:35,953 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:45:36,259 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:45:36,332 - logger_File -INFO - user clicked on login button
+2023-03-15 16:45:36,634 - logger_File -INFO - user is login into account page
+2023-03-15 16:45:36,832 - logger_File -INFO - user clicked on order section
+2023-03-15 16:45:36,836 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:45:36,936 - logger_File -INFO - user clicked on review button
+2023-03-15 16:45:37,218 - logger_File -INFO - user wrote a review
+2023-03-15 16:45:37,302 - logger_File -INFO - user clicked add your review
+2023-03-15 16:45:37,303 - logger_File -INFO - Your review was added successfully
+2023-03-15 16:45:40,130 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:45:40,466 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:45:40,537 - logger_File -INFO - user clicked on login button
+2023-03-15 16:45:40,839 - logger_File -INFO - user is login into account page
+2023-03-15 16:45:43,893 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:45:43,996 - logger_File -INFO - user clicked on Create New Account button
+2023-03-15 16:45:44,558 - logger_File -INFO - user filled the signUp information form
+2023-03-15 16:45:44,655 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-15 16:45:44,959 - logger_File -INFO - user is login into account page
+2023-03-15 16:46:53,183 - logger_File -INFO - user clicked on All section
+2023-03-15 16:46:53,267 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-15 16:46:53,305 - logger_File -INFO - Computers is equal to Computers
+2023-03-15 16:46:53,350 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-15 16:46:53,393 - logger_File -INFO - Sports is equal to Sports
+2023-03-15 16:46:53,449 - logger_File -INFO - Automative is equal to Automative
+2023-03-15 16:46:53,450 - logger_File -INFO - actual is equal to expected
+2023-03-15 16:46:56,937 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:46:57,282 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:46:57,418 - logger_File -INFO - user clicked on login button
+2023-03-15 16:46:57,717 - logger_File -INFO - user is login into account page
+2023-03-15 16:46:57,867 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:46:58,246 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:46:58,322 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:46:58,516 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:47:03,704 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:47:03,779 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:47:03,810 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:47:06,860 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:47:07,225 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:47:07,304 - logger_File -INFO - user clicked on login button
+2023-03-15 16:47:07,678 - logger_File -INFO - user is login into account page
+2023-03-15 16:47:07,833 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:47:08,209 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-15 16:47:08,282 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:47:08,495 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:47:13,684 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:47:13,751 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:47:13,780 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:47:13,899 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:47:14,049 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:47:14,050 - logger_File -INFO - user clicked on add new address
+2023-03-15 16:47:57,691 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:47:57,993 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:47:58,089 - logger_File -INFO - user clicked on login button
+2023-03-15 16:47:58,425 - logger_File -INFO - user is login into account page
+2023-03-15 16:47:58,605 - logger_File -INFO - user changed category to Smart Home
+2023-03-15 16:47:58,985 - logger_File -INFO - user searched for product Apex Legends
+2023-03-15 16:47:59,058 - logger_File -INFO - user clicked on search icon
+2023-03-15 16:47:59,263 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-15 16:48:04,453 - logger_File -INFO - user selected quantity 2
+2023-03-15 16:48:04,527 - logger_File -INFO - user clicked add to cart button
+2023-03-15 16:48:04,566 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-15 16:48:04,679 - logger_File -INFO - user clicked on cart option
+2023-03-15 16:48:04,819 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-15 16:48:04,917 - logger_File -INFO - user click on place your order button
+2023-03-15 16:48:04,934 - logger_File -INFO - password updated successfully
+2023-03-15 16:48:07,948 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:08,250 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:08,314 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:08,667 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:08,935 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:48:09,271 - logger_File -INFO - user updated Name and Phone values 
+2023-03-15 16:48:09,344 - logger_File -INFO - user clicked on Update button
+2023-03-15 16:48:09,345 - logger_File -INFO - user profile information updated
+2023-03-15 16:48:12,173 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:12,484 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:12,555 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:12,847 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:13,126 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:48:13,523 - logger_File -INFO - user entered information
+2023-03-15 16:48:13,596 - logger_File -INFO - user clicked on change password button
+2023-03-15 16:48:13,598 - logger_File -INFO - password updated successfully
+2023-03-15 16:48:16,470 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:16,817 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:16,890 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:17,268 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:17,534 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:48:17,642 - logger_File -INFO - user clicked add a payment method link
+2023-03-15 16:48:19,219 - logger_File -INFO - user filled debit or credit card information
+2023-03-15 16:48:19,351 - logger_File -INFO - user clicked on add your card
+2023-03-15 16:48:19,353 - logger_File -INFO - password updated successfully
+2023-03-15 16:48:22,647 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:22,955 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:23,027 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:23,351 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:23,598 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:48:23,784 - logger_File -INFO - user clicked on remove option of card section
+2023-03-15 16:48:23,785 - logger_File -INFO - payment details should be removed
+2023-03-15 16:48:26,676 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:27,091 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:27,162 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:27,584 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:28,100 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:48:28,466 - logger_File -INFO - user clicked on Add address option
+2023-03-15 16:48:29,815 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-15 16:48:29,893 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:48:29,943 - logger_File -INFO - password updated successfully
+2023-03-15 16:48:32,880 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:33,194 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:33,272 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:33,599 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:33,850 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:48:34,041 - logger_File -INFO - user clicked on edit address option
+2023-03-15 16:48:35,007 - logger_File -INFO - user filled new address form with below information
+2023-03-15 16:48:35,073 - logger_File -INFO - user clicked on Add your Address button
+2023-03-15 16:48:35,075 - logger_File -INFO - password updated successfully
+2023-03-15 16:48:37,915 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:38,328 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:38,396 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:38,713 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:38,975 - logger_File -INFO - user clicked on Account option
+2023-03-15 16:48:39,108 - logger_File -INFO - user clicked on remove address section
+2023-03-15 16:48:39,109 - logger_File -INFO - Address details are removed
+2023-03-15 16:48:41,906 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:42,214 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:42,287 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:42,586 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:42,806 - logger_File -INFO - user clicked on order section
+2023-03-15 16:48:42,807 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:48:42,903 - logger_File -INFO - user clicked on cancel order button
+2023-03-15 16:48:43,003 - logger_File -INFO - user selected cancelation reason
+2023-03-15 16:48:43,074 - logger_File -INFO - user clicked order button
+2023-03-15 16:48:43,075 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:48:45,868 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:46,185 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:46,250 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:46,537 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:46,764 - logger_File -INFO - user clicked on order section
+2023-03-15 16:48:46,764 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:48:46,885 - logger_File -INFO - user clicked return items button
+2023-03-15 16:48:46,982 - logger_File -INFO - user selected return reason
+2023-03-15 16:48:47,055 - logger_File -INFO - user selected drop off service
+2023-03-15 16:48:47,124 - logger_File -INFO - user clicked on return order button
+2023-03-15 16:48:47,125 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-15 16:48:50,151 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:50,478 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:50,583 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:50,903 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:51,128 - logger_File -INFO - user clicked on order section
+2023-03-15 16:48:51,128 - logger_File -INFO - user cliked on first order in list
+2023-03-15 16:48:51,234 - logger_File -INFO - user clicked on review button
+2023-03-15 16:48:51,614 - logger_File -INFO - user wrote a review
+2023-03-15 16:48:51,683 - logger_File -INFO - user clicked add your review
+2023-03-15 16:48:51,684 - logger_File -INFO - Your review was added successfully
+2023-03-15 16:48:54,486 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:54,803 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-15 16:48:54,888 - logger_File -INFO - user clicked on login button
+2023-03-15 16:48:55,179 - logger_File -INFO - user is login into account page
+2023-03-15 16:48:58,080 - logger_File -INFO - User clicked on Sign in Option
+2023-03-15 16:48:58,185 - logger_File -INFO - user clicked on Create New Account button
+2023-03-15 16:48:58,704 - logger_File -INFO - user filled the signUp information form
+2023-03-15 16:48:58,803 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-15 16:48:59,124 - logger_File -INFO - user is login into account page
+2023-03-16 19:13:09,065 - logger_File -INFO - user clicked on All section
+2023-03-16 19:13:09,266 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-16 19:13:09,321 - logger_File -INFO - Computers is equal to Computers
+2023-03-16 19:13:09,377 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-16 19:13:09,432 - logger_File -INFO - Sports is equal to Sports
+2023-03-16 19:13:09,504 - logger_File -INFO - Automative is equal to Automative
+2023-03-16 19:13:09,505 - logger_File -INFO - actual is equal to expected
+2023-03-16 19:13:14,168 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:13:14,846 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:13:14,978 - logger_File -INFO - user clicked on login button
+2023-03-16 19:13:15,246 - logger_File -INFO - user is login into account page
+2023-03-16 19:13:15,444 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:13:15,870 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-16 19:13:15,957 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:13:16,157 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:13:21,411 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:13:21,521 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:13:21,555 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:13:25,162 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:13:25,691 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:13:25,800 - logger_File -INFO - user clicked on login button
+2023-03-16 19:13:26,439 - logger_File -INFO - user is login into account page
+2023-03-16 19:13:26,769 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:13:27,193 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-16 19:13:27,315 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:13:27,576 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:13:32,971 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:13:33,055 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:13:33,100 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:13:33,317 - logger_File -INFO - user clicked on cart option
+2023-03-16 19:13:33,488 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-16 19:13:33,489 - logger_File -INFO - user clicked on add new address
+2023-03-16 19:14:18,268 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:14:18,663 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:14:18,785 - logger_File -INFO - user clicked on login button
+2023-03-16 19:14:19,153 - logger_File -INFO - user is login into account page
+2023-03-16 19:14:19,342 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:14:19,749 - logger_File -INFO - user searched for product Apex Legends
+2023-03-16 19:14:19,929 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:14:20,131 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:14:25,350 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:14:25,465 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:14:25,505 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:14:25,679 - logger_File -INFO - user clicked on cart option
+2023-03-16 19:14:26,039 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-16 19:14:26,166 - logger_File -INFO - user click on place your order button
+2023-03-16 19:14:26,182 - logger_File -INFO - password updated successfully
+2023-03-16 19:19:30,621 - logger_File -INFO - user clicked on All section
+2023-03-16 19:19:30,707 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-16 19:19:30,746 - logger_File -INFO - Computers is equal to Computers
+2023-03-16 19:19:30,792 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-16 19:19:30,824 - logger_File -INFO - Sports is equal to Sports
+2023-03-16 19:19:30,866 - logger_File -INFO - Automative is equal to Automative
+2023-03-16 19:19:30,866 - logger_File -INFO - actual is equal to expected
+2023-03-16 19:19:34,374 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:19:34,861 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:19:34,964 - logger_File -INFO - user clicked on login button
+2023-03-16 19:19:35,268 - logger_File -INFO - user is login into account page
+2023-03-16 19:19:35,488 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:19:35,881 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-16 19:19:35,988 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:19:36,197 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:19:41,412 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:19:41,508 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:19:41,540 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:19:45,083 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:19:45,504 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:19:45,652 - logger_File -INFO - user clicked on login button
+2023-03-16 19:19:46,066 - logger_File -INFO - user is login into account page
+2023-03-16 19:19:46,269 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:19:46,699 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-16 19:19:46,788 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:19:47,038 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:19:52,427 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:19:52,534 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:19:52,578 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:19:52,778 - logger_File -INFO - user clicked on cart option
+2023-03-16 19:19:52,979 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-16 19:19:53,123 - logger_File -INFO - user clicked on add new address
+2023-03-16 19:19:54,432 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-16 19:19:54,532 - logger_File -INFO - user clicked on Add your Address button
+2023-03-16 19:19:54,640 - logger_File -INFO - user click add a credit or debit card
+2023-03-16 19:19:55,404 - logger_File -INFO - user filled debit or credit card information
+2023-03-16 19:19:55,540 - logger_File -INFO - user click on add your card button
+2023-03-16 19:20:01,372 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:20:01,778 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:20:01,865 - logger_File -INFO - user clicked on login button
+2023-03-16 19:20:02,429 - logger_File -INFO - user is login into account page
+2023-03-16 19:20:02,646 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:20:03,040 - logger_File -INFO - user searched for product Apex Legends
+2023-03-16 19:20:03,124 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:20:03,332 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:20:08,630 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:20:08,714 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:20:08,752 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:20:08,888 - logger_File -INFO - user clicked on cart option
+2023-03-16 19:20:09,076 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-16 19:20:09,182 - logger_File -INFO - user click on place your order button
+2023-03-16 19:20:09,200 - logger_File -INFO - password updated successfully
+2023-03-16 19:21:37,130 - logger_File -INFO - user clicked on All section
+2023-03-16 19:21:37,257 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-16 19:21:37,295 - logger_File -INFO - Computers is equal to Computers
+2023-03-16 19:21:37,336 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-16 19:21:37,371 - logger_File -INFO - Sports is equal to Sports
+2023-03-16 19:21:37,413 - logger_File -INFO - Automative is equal to Automative
+2023-03-16 19:21:37,414 - logger_File -INFO - actual is equal to expected
+2023-03-16 19:21:41,032 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:21:41,425 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:21:41,591 - logger_File -INFO - user clicked on login button
+2023-03-16 19:21:41,943 - logger_File -INFO - user is login into account page
+2023-03-16 19:21:42,128 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:21:42,501 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-16 19:21:42,594 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:21:42,821 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:21:48,009 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:21:48,095 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:21:48,123 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:21:51,766 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:21:52,158 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:21:52,249 - logger_File -INFO - user clicked on login button
+2023-03-16 19:21:52,610 - logger_File -INFO - user is login into account page
+2023-03-16 19:21:52,799 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:21:53,163 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-16 19:21:53,248 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:21:53,452 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:21:58,652 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:21:58,732 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:21:58,763 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:21:58,908 - logger_File -INFO - user clicked on cart option
+2023-03-16 19:21:59,075 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-16 19:21:59,231 - logger_File -INFO - user clicked on add new address
+2023-03-16 19:22:00,807 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-16 19:22:00,905 - logger_File -INFO - user clicked on Add your Address button
+2023-03-16 19:22:01,034 - logger_File -INFO - user click add a credit or debit card
+2023-03-16 19:22:01,658 - logger_File -INFO - user filled debit or credit card information
+2023-03-16 19:22:01,761 - logger_File -INFO - user click on add your card button
+2023-03-16 19:22:02,375 - logger_File -INFO - user click on place your order button
+2023-03-16 19:22:02,375 - logger_File -INFO - password updated successfully
+2023-03-16 19:22:05,887 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:22:06,299 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:22:06,389 - logger_File -INFO - user clicked on login button
+2023-03-16 19:22:06,691 - logger_File -INFO - user is login into account page
+2023-03-16 19:22:06,893 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:22:07,263 - logger_File -INFO - user searched for product Apex Legends
+2023-03-16 19:22:07,348 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:22:07,559 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:22:12,747 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:22:12,826 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:22:12,866 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:22:12,998 - logger_File -INFO - user clicked on cart option
+2023-03-16 19:22:13,145 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-16 19:22:13,259 - logger_File -INFO - user click on place your order button
+2023-03-16 19:22:13,274 - logger_File -INFO - password updated successfully
+2023-03-16 19:22:16,867 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:22:17,188 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:22:17,285 - logger_File -INFO - user clicked on login button
+2023-03-16 19:22:17,679 - logger_File -INFO - user is login into account page
+2023-03-16 19:22:17,909 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:22:18,393 - logger_File -INFO - user updated Name and Phone values 
+2023-03-16 19:22:18,512 - logger_File -INFO - user clicked on Update button
+2023-03-16 19:22:18,513 - logger_File -INFO - user profile information updated
+2023-03-16 19:22:21,891 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:22:22,249 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:22:22,345 - logger_File -INFO - user clicked on login button
+2023-03-16 19:22:22,700 - logger_File -INFO - user is login into account page
+2023-03-16 19:22:23,004 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:22:23,572 - logger_File -INFO - user entered information
+2023-03-16 19:22:23,658 - logger_File -INFO - user clicked on change password button
+2023-03-16 19:22:23,659 - logger_File -INFO - password updated successfully
+2023-03-16 19:22:27,094 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:22:27,694 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:22:27,779 - logger_File -INFO - user clicked on login button
+2023-03-16 19:22:28,095 - logger_File -INFO - user is login into account page
+2023-03-16 19:22:28,395 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:22:28,595 - logger_File -INFO - user clicked add a payment method link
+2023-03-16 19:22:29,139 - logger_File -INFO - user filled debit or credit card information
+2023-03-16 19:22:29,230 - logger_File -INFO - user clicked on add your card
+2023-03-16 19:22:29,231 - logger_File -INFO - password updated successfully
+2023-03-16 19:22:32,671 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:22:33,065 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:22:33,155 - logger_File -INFO - user clicked on login button
+2023-03-16 19:22:33,501 - logger_File -INFO - user is login into account page
+2023-03-16 19:22:33,744 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:22:33,960 - logger_File -INFO - user clicked on remove option of card section
+2023-03-16 19:22:33,960 - logger_File -INFO - payment details should be removed
+2023-03-16 19:22:37,347 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:22:37,749 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:22:37,844 - logger_File -INFO - user clicked on login button
+2023-03-16 19:22:38,145 - logger_File -INFO - user is login into account page
+2023-03-16 19:22:38,501 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:22:38,643 - logger_File -INFO - user clicked on Add address option
+2023-03-16 19:22:39,691 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-16 19:22:39,795 - logger_File -INFO - user clicked on Add your Address button
+2023-03-16 19:22:39,795 - logger_File -INFO - password updated successfully
+2023-03-16 19:22:43,371 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:22:43,713 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:22:43,800 - logger_File -INFO - user clicked on login button
+2023-03-16 19:22:44,643 - logger_File -INFO - user is login into account page
+2023-03-16 19:22:44,807 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:22:45,257 - logger_File -INFO - user clicked on edit address option
+2023-03-16 19:22:46,714 - logger_File -INFO - user filled new address form with below information
+2023-03-16 19:22:46,824 - logger_File -INFO - user clicked on Add your Address button
+2023-03-16 19:22:46,827 - logger_File -INFO - password updated successfully
+2023-03-16 19:22:50,831 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:22:51,169 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:22:51,399 - logger_File -INFO - user clicked on login button
+2023-03-16 19:22:51,732 - logger_File -INFO - user is login into account page
+2023-03-16 19:22:51,920 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:22:52,155 - logger_File -INFO - user clicked on remove address section
+2023-03-16 19:22:52,156 - logger_File -INFO - Address details are removed
+2023-03-16 19:22:55,490 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:22:55,873 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:22:55,956 - logger_File -INFO - user clicked on login button
+2023-03-16 19:22:56,269 - logger_File -INFO - user is login into account page
+2023-03-16 19:22:56,564 - logger_File -INFO - user clicked on order section
+2023-03-16 19:22:56,565 - logger_File -INFO - user cliked on first order in list
+2023-03-16 19:22:56,705 - logger_File -INFO - user clicked on cancel order button
+2023-03-16 19:22:56,806 - logger_File -INFO - user selected cancelation reason
+2023-03-16 19:22:56,910 - logger_File -INFO - user clicked order button
+2023-03-16 19:22:56,911 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-16 19:23:00,821 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:23:01,173 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:23:01,261 - logger_File -INFO - user clicked on login button
+2023-03-16 19:23:01,980 - logger_File -INFO - user is login into account page
+2023-03-16 19:23:02,118 - logger_File -INFO - user clicked on order section
+2023-03-16 19:23:02,119 - logger_File -INFO - user cliked on first order in list
+2023-03-16 19:23:46,148 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:23:46,546 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:23:46,623 - logger_File -INFO - user clicked on login button
+2023-03-16 19:23:46,922 - logger_File -INFO - user is login into account page
+2023-03-16 19:23:47,086 - logger_File -INFO - user clicked on order section
+2023-03-16 19:23:47,092 - logger_File -INFO - user cliked on first order in list
+2023-03-16 19:23:47,395 - logger_File -INFO - user clicked on review button
+2023-03-16 19:23:47,790 - logger_File -INFO - user wrote a review
+2023-03-16 19:23:47,872 - logger_File -INFO - user clicked add your review
+2023-03-16 19:23:47,874 - logger_File -INFO - Your review was added successfully
+2023-03-16 19:23:51,437 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:23:51,852 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:23:51,939 - logger_File -INFO - user clicked on login button
+2023-03-16 19:23:52,275 - logger_File -INFO - user is login into account page
+2023-03-16 19:23:55,754 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:23:55,876 - logger_File -INFO - user clicked on Create New Account button
+2023-03-16 19:23:56,444 - logger_File -INFO - user filled the signUp information form
+2023-03-16 19:23:56,536 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-16 19:26:18,790 - logger_File -INFO - user clicked on All section
+2023-03-16 19:26:19,070 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-16 19:26:19,118 - logger_File -INFO - Computers is equal to Computers
+2023-03-16 19:26:19,166 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-16 19:26:19,199 - logger_File -INFO - Sports is equal to Sports
+2023-03-16 19:26:19,236 - logger_File -INFO - Automative is equal to Automative
+2023-03-16 19:26:19,236 - logger_File -INFO - actual is equal to expected
+2023-03-16 19:26:22,381 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:26:22,775 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:26:22,879 - logger_File -INFO - user clicked on login button
+2023-03-16 19:26:23,214 - logger_File -INFO - user is login into account page
+2023-03-16 19:26:23,415 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:26:23,856 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-16 19:26:23,950 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:26:24,166 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:26:29,358 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:26:29,438 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:26:29,482 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:26:32,564 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:26:32,978 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:26:33,057 - logger_File -INFO - user clicked on login button
+2023-03-16 19:26:33,392 - logger_File -INFO - user is login into account page
+2023-03-16 19:26:33,642 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:26:34,023 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-16 19:26:34,106 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:26:34,294 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:26:39,481 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:26:39,570 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:26:39,602 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:26:39,748 - logger_File -INFO - user clicked on cart option
+2023-03-16 19:26:39,902 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-16 19:26:40,048 - logger_File -INFO - user clicked on add new address
+2023-03-16 19:26:41,343 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-16 19:26:41,436 - logger_File -INFO - user clicked on Add your Address button
+2023-03-16 19:26:46,200 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:26:46,601 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:26:46,692 - logger_File -INFO - user clicked on login button
+2023-03-16 19:26:47,075 - logger_File -INFO - user is login into account page
+2023-03-16 19:26:47,304 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:26:47,666 - logger_File -INFO - user searched for product Apex Legends
+2023-03-16 19:26:47,752 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:26:47,932 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:26:53,135 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:26:53,217 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:26:53,252 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:26:53,381 - logger_File -INFO - user clicked on cart option
+2023-03-16 19:26:53,551 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-16 19:27:17,185 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:27:17,607 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:27:17,693 - logger_File -INFO - user clicked on login button
+2023-03-16 19:27:18,165 - logger_File -INFO - user is login into account page
+2023-03-16 19:27:18,394 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:27:18,872 - logger_File -INFO - user updated Name and Phone values 
+2023-03-16 19:27:18,970 - logger_File -INFO - user clicked on Update button
+2023-03-16 19:27:18,972 - logger_File -INFO - user profile information updated
+2023-03-16 19:27:21,909 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:27:22,279 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:27:22,367 - logger_File -INFO - user clicked on login button
+2023-03-16 19:27:22,664 - logger_File -INFO - user is login into account page
+2023-03-16 19:27:23,086 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:27:23,587 - logger_File -INFO - user entered information
+2023-03-16 19:27:23,683 - logger_File -INFO - user clicked on change password button
+2023-03-16 19:27:23,686 - logger_File -INFO - password updated successfully
+2023-03-16 19:27:26,951 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:27:27,331 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:27:27,426 - logger_File -INFO - user clicked on login button
+2023-03-16 19:27:27,818 - logger_File -INFO - user is login into account page
+2023-03-16 19:27:28,093 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:27:28,272 - logger_File -INFO - user clicked add a payment method link
+2023-03-16 19:27:29,384 - logger_File -INFO - user filled debit or credit card information
+2023-03-16 19:27:29,480 - logger_File -INFO - user clicked on add your card
+2023-03-16 19:27:29,483 - logger_File -INFO - password updated successfully
+2023-03-16 19:27:32,828 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:27:33,182 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:27:33,272 - logger_File -INFO - user clicked on login button
+2023-03-16 19:27:33,572 - logger_File -INFO - user is login into account page
+2023-03-16 19:27:33,819 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:28:17,527 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:28:17,932 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:28:18,018 - logger_File -INFO - user clicked on login button
+2023-03-16 19:28:18,301 - logger_File -INFO - user is login into account page
+2023-03-16 19:28:18,576 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:28:18,901 - logger_File -INFO - user clicked on Add address option
+2023-03-16 19:28:19,851 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-16 19:28:19,945 - logger_File -INFO - user clicked on Add your Address button
+2023-03-16 19:28:19,946 - logger_File -INFO - password updated successfully
+2023-03-16 19:28:23,450 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:28:23,854 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:28:23,933 - logger_File -INFO - user clicked on login button
+2023-03-16 19:28:24,349 - logger_File -INFO - user is login into account page
+2023-03-16 19:28:24,617 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:28:24,755 - logger_File -INFO - user clicked on edit address option
+2023-03-16 19:28:26,185 - logger_File -INFO - user filled new address form with below information
+2023-03-16 19:28:26,278 - logger_File -INFO - user clicked on Add your Address button
+2023-03-16 19:28:26,282 - logger_File -INFO - password updated successfully
+2023-03-16 19:28:29,653 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:28:30,055 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:28:30,138 - logger_File -INFO - user clicked on login button
+2023-03-16 19:28:30,427 - logger_File -INFO - user is login into account page
+2023-03-16 19:28:30,709 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:28:30,853 - logger_File -INFO - user clicked on remove address section
+2023-03-16 19:28:30,854 - logger_File -INFO - Address details are removed
+2023-03-16 19:28:34,034 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:28:34,371 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:28:34,455 - logger_File -INFO - user clicked on login button
+2023-03-16 19:28:34,742 - logger_File -INFO - user is login into account page
+2023-03-16 19:28:34,992 - logger_File -INFO - user clicked on order section
+2023-03-16 19:28:34,996 - logger_File -INFO - user cliked on first order in list
+2023-03-16 19:28:35,180 - logger_File -INFO - user clicked on cancel order button
+2023-03-16 19:28:35,296 - logger_File -INFO - user selected cancelation reason
+2023-03-16 19:28:35,396 - logger_File -INFO - user clicked order button
+2023-03-16 19:28:35,397 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-16 19:28:39,194 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:28:39,576 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:28:39,658 - logger_File -INFO - user clicked on login button
+2023-03-16 19:28:39,982 - logger_File -INFO - user is login into account page
+2023-03-16 19:28:40,191 - logger_File -INFO - user clicked on order section
+2023-03-16 19:28:40,192 - logger_File -INFO - user cliked on first order in list
+2023-03-16 19:28:40,373 - logger_File -INFO - user clicked return items button
+2023-03-16 19:28:40,499 - logger_File -INFO - user selected return reason
+2023-03-16 19:28:40,573 - logger_File -INFO - user selected drop off service
+2023-03-16 19:28:40,657 - logger_File -INFO - user clicked on return order button
+2023-03-16 19:28:40,658 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-16 19:28:44,233 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:28:44,602 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:28:44,695 - logger_File -INFO - user clicked on login button
+2023-03-16 19:28:45,010 - logger_File -INFO - user is login into account page
+2023-03-16 19:28:45,307 - logger_File -INFO - user clicked on order section
+2023-03-16 19:28:45,316 - logger_File -INFO - user cliked on first order in list
+2023-03-16 19:28:45,530 - logger_File -INFO - user clicked on review button
+2023-03-16 19:28:45,858 - logger_File -INFO - user wrote a review
+2023-03-16 19:28:45,940 - logger_File -INFO - user clicked add your review
+2023-03-16 19:28:45,941 - logger_File -INFO - Your review was added successfully
+2023-03-16 19:28:49,255 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:28:49,618 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:28:49,787 - logger_File -INFO - user clicked on login button
+2023-03-16 19:28:50,246 - logger_File -INFO - user is login into account page
+2023-03-16 19:28:53,402 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:28:53,540 - logger_File -INFO - user clicked on Create New Account button
+2023-03-16 19:28:54,194 - logger_File -INFO - user filled the signUp information form
+2023-03-16 19:28:54,282 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-16 19:28:54,619 - logger_File -INFO - user is login into account page
+2023-03-16 19:34:27,749 - logger_File -INFO - user clicked on All section
+2023-03-16 19:34:27,962 - logger_File -INFO - Electronics is equal to Electronics
+2023-03-16 19:34:28,069 - logger_File -INFO - Computers is equal to Computers
+2023-03-16 19:34:28,144 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-03-16 19:34:28,191 - logger_File -INFO - Sports is equal to Sports
+2023-03-16 19:34:28,243 - logger_File -INFO - Automative is equal to Automative
+2023-03-16 19:34:28,243 - logger_File -INFO - actual is equal to expected
+2023-03-16 19:34:32,851 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:34:33,449 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:34:33,600 - logger_File -INFO - user clicked on login button
+2023-03-16 19:34:33,995 - logger_File -INFO - user is login into account page
+2023-03-16 19:34:34,366 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:34:34,788 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-16 19:34:34,914 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:34:35,468 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:34:40,751 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:34:40,883 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:34:40,912 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:34:44,832 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:34:45,226 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:34:45,435 - logger_File -INFO - user clicked on login button
+2023-03-16 19:34:45,774 - logger_File -INFO - user is login into account page
+2023-03-16 19:34:46,201 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:34:46,617 - logger_File -INFO - user searched for product kasa outdoor smart plug
+2023-03-16 19:34:46,741 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:34:47,065 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:34:52,316 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:34:52,400 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:34:52,440 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:34:52,599 - logger_File -INFO - user clicked on cart option
+2023-03-16 19:34:52,755 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-16 19:34:52,900 - logger_File -INFO - user clicked on add new address
+2023-03-16 19:34:54,466 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-16 19:34:54,568 - logger_File -INFO - user clicked on Add your Address button
+2023-03-16 19:34:54,697 - logger_File -INFO - user click add a credit or debit card
+2023-03-16 19:34:55,273 - logger_File -INFO - user filled debit or credit card information
+2023-03-16 19:34:55,378 - logger_File -INFO - user click on add your card button
+2023-03-16 19:34:55,537 - logger_File -INFO - user click on place your order button
+2023-03-16 19:34:55,538 - logger_File -INFO - password updated successfully
+2023-03-16 19:34:59,242 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:34:59,586 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:34:59,721 - logger_File -INFO - user clicked on login button
+2023-03-16 19:35:00,322 - logger_File -INFO - user is login into account page
+2023-03-16 19:35:00,600 - logger_File -INFO - user changed category to Smart Home
+2023-03-16 19:35:01,038 - logger_File -INFO - user searched for product Apex Legends
+2023-03-16 19:35:01,175 - logger_File -INFO - user clicked on search icon
+2023-03-16 19:35:01,430 - logger_File -INFO - user clicked on kasa outdoor smart plug
+2023-03-16 19:35:06,661 - logger_File -INFO - user selected quantity 2
+2023-03-16 19:35:06,795 - logger_File -INFO - user clicked add to cart button
+2023-03-16 19:35:06,830 - logger_File -INFO - the cart icon quantity should change to 2
+2023-03-16 19:35:07,001 - logger_File -INFO - user clicked on cart option
+2023-03-16 19:35:07,160 - logger_File -INFO - user clicked on proceed to checkout button
+2023-03-16 19:35:07,270 - logger_File -INFO - user click on place your order button
+2023-03-16 19:35:07,288 - logger_File -INFO - password updated successfully
+2023-03-16 19:35:11,315 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:35:11,738 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:35:11,947 - logger_File -INFO - user clicked on login button
+2023-03-16 19:35:12,785 - logger_File -INFO - user is login into account page
+2023-03-16 19:35:13,298 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:35:14,131 - logger_File -INFO - user updated Name and Phone values 
+2023-03-16 19:35:14,293 - logger_File -INFO - user clicked on Update button
+2023-03-16 19:35:14,295 - logger_File -INFO - user profile information updated
+2023-03-16 19:35:18,258 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:35:18,649 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:35:18,795 - logger_File -INFO - user clicked on login button
+2023-03-16 19:35:19,290 - logger_File -INFO - user is login into account page
+2023-03-16 19:35:19,802 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:35:20,589 - logger_File -INFO - user entered information
+2023-03-16 19:35:20,719 - logger_File -INFO - user clicked on change password button
+2023-03-16 19:35:20,720 - logger_File -INFO - password updated successfully
+2023-03-16 19:35:24,410 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:35:24,786 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:35:24,960 - logger_File -INFO - user clicked on login button
+2023-03-16 19:35:25,319 - logger_File -INFO - user is login into account page
+2023-03-16 19:35:25,708 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:35:25,946 - logger_File -INFO - user clicked add a payment method link
+2023-03-16 19:35:27,021 - logger_File -INFO - user filled debit or credit card information
+2023-03-16 19:35:27,133 - logger_File -INFO - user clicked on add your card
+2023-03-16 19:35:27,134 - logger_File -INFO - password updated successfully
+2023-03-16 19:35:31,007 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:35:31,393 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:35:31,695 - logger_File -INFO - user clicked on login button
+2023-03-16 19:35:32,088 - logger_File -INFO - user is login into account page
+2023-03-16 19:35:32,484 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:35:32,958 - logger_File -INFO - user clicked on remove option of card section
+2023-03-16 19:35:32,959 - logger_File -INFO - payment details should be removed
+2023-03-16 19:35:36,761 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:35:37,224 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:35:37,388 - logger_File -INFO - user clicked on login button
+2023-03-16 19:35:37,733 - logger_File -INFO - user is login into account page
+2023-03-16 19:35:38,204 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:35:38,592 - logger_File -INFO - user clicked on Add address option
+2023-03-16 19:35:39,955 - logger_File -INFO - user filled the new address form with information provided in data table
+2023-03-16 19:35:40,059 - logger_File -INFO - user clicked on Add your Address button
+2023-03-16 19:35:40,060 - logger_File -INFO - password updated successfully
+2023-03-16 19:35:43,678 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:35:44,048 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:35:44,129 - logger_File -INFO - user clicked on login button
+2023-03-16 19:35:44,645 - logger_File -INFO - user is login into account page
+2023-03-16 19:35:45,114 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:35:45,534 - logger_File -INFO - user clicked on edit address option
+2023-03-16 19:35:47,531 - logger_File -INFO - user filled new address form with below information
+2023-03-16 19:35:47,623 - logger_File -INFO - user clicked on Add your Address button
+2023-03-16 19:35:47,626 - logger_File -INFO - password updated successfully
+2023-03-16 19:35:52,357 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:35:52,852 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:35:52,970 - logger_File -INFO - user clicked on login button
+2023-03-16 19:35:53,233 - logger_File -INFO - user is login into account page
+2023-03-16 19:35:53,650 - logger_File -INFO - user clicked on Account option
+2023-03-16 19:35:53,960 - logger_File -INFO - user clicked on remove address section
+2023-03-16 19:35:53,961 - logger_File -INFO - Address details are removed
+2023-03-16 19:35:57,814 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:35:58,172 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:35:58,320 - logger_File -INFO - user clicked on login button
+2023-03-16 19:35:58,725 - logger_File -INFO - user is login into account page
+2023-03-16 19:35:59,052 - logger_File -INFO - user clicked on order section
+2023-03-16 19:35:59,053 - logger_File -INFO - user cliked on first order in list
+2023-03-16 19:35:59,423 - logger_File -INFO - user clicked on cancel order button
+2023-03-16 19:35:59,575 - logger_File -INFO - user selected cancelation reason
+2023-03-16 19:35:59,688 - logger_File -INFO - user clicked order button
+2023-03-16 19:35:59,689 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-16 19:36:03,439 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:36:03,836 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:36:03,951 - logger_File -INFO - user clicked on login button
+2023-03-16 19:36:04,274 - logger_File -INFO - user is login into account page
+2023-03-16 19:36:04,422 - logger_File -INFO - user clicked on order section
+2023-03-16 19:36:04,425 - logger_File -INFO - user cliked on first order in list
+2023-03-16 19:36:05,015 - logger_File -INFO - user clicked return items button
+2023-03-16 19:36:05,162 - logger_File -INFO - user selected return reason
+2023-03-16 19:36:05,290 - logger_File -INFO - user selected drop off service
+2023-03-16 19:36:05,405 - logger_File -INFO - user clicked on return order button
+2023-03-16 19:36:05,407 - logger_File -INFO - Your order has been canceled message is displayed
+2023-03-16 19:36:09,729 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:36:10,229 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:36:10,404 - logger_File -INFO - user clicked on login button
+2023-03-16 19:36:10,698 - logger_File -INFO - user is login into account page
+2023-03-16 19:36:10,891 - logger_File -INFO - user clicked on order section
+2023-03-16 19:36:10,892 - logger_File -INFO - user cliked on first order in list
+2023-03-16 19:36:11,328 - logger_File -INFO - user clicked on review button
+2023-03-16 19:36:11,965 - logger_File -INFO - user wrote a review
+2023-03-16 19:36:12,089 - logger_File -INFO - user clicked add your review
+2023-03-16 19:36:12,090 - logger_File -INFO - Your review was added successfully
+2023-03-16 19:36:15,918 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:36:16,251 - logger_File -INFO - user entered email tester9@gmail.com and password Tekstudent123!
+2023-03-16 19:36:16,352 - logger_File -INFO - user clicked on login button
+2023-03-16 19:36:16,816 - logger_File -INFO - user is login into account page
+2023-03-16 19:36:21,253 - logger_File -INFO - User clicked on Sign in Option
+2023-03-16 19:36:21,370 - logger_File -INFO - user clicked on Create New Account button
+2023-03-16 19:36:22,194 - logger_File -INFO - user filled the signUp information form
+2023-03-16 19:36:22,451 - logger_File -INFO - user clicked on SignUpForm button
+2023-03-16 19:36:22,889 - logger_File -INFO - user is login into account page
